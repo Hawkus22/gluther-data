@@ -1,0 +1,31 @@
+{
+ "version": 1,
+ "date": "2026-10-11",
+ "source_export": "2026-10-10",
+ "tiers": [
+  {
+   "id": "20k",
+   "file": "products_20k.jsonl.gz",
+   "count": 20000,
+   "mb": 2.5
+  },
+  {
+   "id": "50k",
+   "file": "products_50k.jsonl.gz",
+   "count": 50000,
+   "mb": 6.1
+  },
+  {
+   "id": "100k",
+   "file": "products_100k.jsonl.gz",
+   "count": 100000,
+   "mb": 11.8
+  },
+  {
+   "id": "all",
+   "file": "products_all.jsonl.gz",
+   "count": 293059,
+   "mb": 31.1
+  }
+ ]
+}
