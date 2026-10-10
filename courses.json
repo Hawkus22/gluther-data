@@ -1,0 +1,2951 @@
+{
+ "version": 1,
+ "name": "GlutHer - courses générales",
+ "items": [
+  {
+   "n": "Spaghetti",
+   "k": "pates",
+   "h": "g"
+  },
+  {
+   "n": "Penne",
+   "k": "pates",
+   "h": "g"
+  },
+  {
+   "n": "Fusilli",
+   "k": "pates",
+   "h": "g"
+  },
+  {
+   "n": "Coquillettes",
+   "k": "pates",
+   "h": "g"
+  },
+  {
+   "n": "Tagliatelles",
+   "k": "pates",
+   "h": "g"
+  },
+  {
+   "n": "Macaronis",
+   "k": "pates",
+   "h": "g"
+  },
+  {
+   "n": "Torsades",
+   "k": "pates",
+   "h": "g"
+  },
+  {
+   "n": "Farfalle",
+   "k": "pates",
+   "h": "g"
+  },
+  {
+   "n": "Lasagnes (feuilles)",
+   "k": "pates",
+   "h": "g"
+  },
+  {
+   "n": "Vermicelles",
+   "k": "pates",
+   "h": "g"
+  },
+  {
+   "n": "Pâtes alsaciennes",
+   "k": "pates",
+   "h": "g"
+  },
+  {
+   "n": "Pâtes fraîches",
+   "k": "pates",
+   "h": "g"
+  },
+  {
+   "n": "Ravioli",
+   "k": "pates",
+   "h": "g"
+  },
+  {
+   "n": "Tortellini",
+   "k": "pates",
+   "h": "g"
+  },
+  {
+   "n": "Gnocchi de blé",
+   "k": "pates",
+   "h": "g"
+  },
+  {
+   "n": "Semoule de blé",
+   "k": "pates",
+   "h": "g"
+  },
+  {
+   "n": "Couscous",
+   "k": "pates",
+   "h": "g"
+  },
+  {
+   "n": "Boulgour",
+   "k": "pates",
+   "h": "g"
+  },
+  {
+   "n": "Nouilles instantanées",
+   "k": "pates",
+   "h": "g"
+  },
+  {
+   "n": "Pâtes complètes",
+   "k": "pates",
+   "h": "g"
+  },
+  {
+   "n": "Pâtes aux œufs",
+   "k": "pates",
+   "h": "g"
+  },
+  {
+   "n": "Cheveux d'ange",
+   "k": "pates",
+   "h": "g"
+  },
+  {
+   "n": "Spätzle",
+   "k": "pates",
+   "h": "g"
+  },
+  {
+   "n": "Nouilles de riz",
+   "k": "pates",
+   "h": "f"
+  },
+  {
+   "n": "Vermicelles de riz",
+   "k": "pates",
+   "h": "f"
+  },
+  {
+   "n": "Gnocchi de pommes de terre",
+   "k": "pates",
+   "h": "f"
+  },
+  {
+   "n": "Nouilles de konjac",
+   "k": "pates",
+   "h": "f"
+  },
+  {
+   "n": "Galettes de riz",
+   "k": "pates",
+   "h": "f"
+  },
+  {
+   "n": "Pâtes sans gluten",
+   "k": "pates",
+   "h": "c"
+  },
+  {
+   "n": "Pâtes de légumineuses (lentilles, pois chiches)",
+   "k": "pates",
+   "h": "c"
+  },
+  {
+   "n": "Pâtes de maïs",
+   "k": "pates",
+   "h": "c"
+  },
+  {
+   "n": "Soba",
+   "k": "pates",
+   "h": "c"
+  },
+  {
+   "n": "Baguette",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Pain de campagne",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Pain de mie",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Pain complet",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Pain aux céréales",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Pain au levain",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Pain burger",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Pain pita",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Wraps / tortillas de blé",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Pain hot-dog",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Pain grillé",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Biscottes",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Croissants",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Pains au chocolat",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Brioche",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Pain au lait",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Pain d'épices",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Chapelure",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Croûtons",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Pain pour bruschetta",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Galettes de blé",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Naan",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Crêpes",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Gaufres",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Pâte à pizza",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Pâte brisée",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Pâte feuilletée",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Pâte sablée",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Pâte à crêpes",
+   "k": "pain",
+   "h": "g"
+  },
+  {
+   "n": "Galettes de sarrasin (pur)",
+   "k": "pain",
+   "h": "f"
+  },
+  {
+   "n": "Tortillas de maïs",
+   "k": "pain",
+   "h": "f"
+  },
+  {
+   "n": "Pain sans gluten",
+   "k": "pain",
+   "h": "c"
+  },
+  {
+   "n": "Pain de mie sans gluten",
+   "k": "pain",
+   "h": "c"
+  },
+  {
+   "n": "Pain de seigle",
+   "k": "pain",
+   "h": "c"
+  },
+  {
+   "n": "Biscuits secs",
+   "k": "biscuits",
+   "h": "g"
+  },
+  {
+   "n": "Petits-beurre",
+   "k": "biscuits",
+   "h": "g"
+  },
+  {
+   "n": "Cookies",
+   "k": "biscuits",
+   "h": "g"
+  },
+  {
+   "n": "Sablés",
+   "k": "biscuits",
+   "h": "g"
+  },
+  {
+   "n": "Madeleines",
+   "k": "biscuits",
+   "h": "g"
+  },
+  {
+   "n": "Gâteau au yaourt",
+   "k": "biscuits",
+   "h": "g"
+  },
+  {
+   "n": "Quatre-quarts",
+   "k": "biscuits",
+   "h": "g"
+  },
+  {
+   "n": "Cake",
+   "k": "biscuits",
+   "h": "g"
+  },
+  {
+   "n": "Muffins",
+   "k": "biscuits",
+   "h": "g"
+  },
+  {
+   "n": "Brownies",
+   "k": "biscuits",
+   "h": "g"
+  },
+  {
+   "n": "Tartes sucrées",
+   "k": "biscuits",
+   "h": "g"
+  },
+  {
+   "n": "Palets bretons",
+   "k": "biscuits",
+   "h": "g"
+  },
+  {
+   "n": "Gaufrettes",
+   "k": "biscuits",
+   "h": "g"
+  },
+  {
+   "n": "Spéculoos",
+   "k": "biscuits",
+   "h": "g"
+  },
+  {
+   "n": "Boudoirs",
+   "k": "biscuits",
+   "h": "g"
+  },
+  {
+   "n": "Barres de céréales",
+   "k": "biscuits",
+   "h": "g"
+  },
+  {
+   "n": "Pain d'épices tranché",
+   "k": "biscuits",
+   "h": "g"
+  },
+  {
+   "n": "Éclairs",
+   "k": "biscuits",
+   "h": "g"
+  },
+  {
+   "n": "Choux",
+   "k": "biscuits",
+   "h": "g"
+  },
+  {
+   "n": "Tuiles",
+   "k": "biscuits",
+   "h": "g"
+  },
+  {
+   "n": "Cônes de glace",
+   "k": "biscuits",
+   "h": "g"
+  },
+  {
+   "n": "Fonds de tarte",
+   "k": "biscuits",
+   "h": "g"
+  },
+  {
+   "n": "Génoise",
+   "k": "biscuits",
+   "h": "g"
+  },
+  {
+   "n": "Biscuits apéritif",
+   "k": "biscuits",
+   "h": "g"
+  },
+  {
+   "n": "Meringues",
+   "k": "biscuits",
+   "h": "f"
+  },
+  {
+   "n": "Macarons (amande)",
+   "k": "biscuits",
+   "h": "f"
+  },
+  {
+   "n": "Biscuits sans gluten",
+   "k": "biscuits",
+   "h": "c"
+  },
+  {
+   "n": "Gâteaux sans gluten",
+   "k": "biscuits",
+   "h": "c"
+  },
+  {
+   "n": "Barres aux fruits",
+   "k": "biscuits",
+   "h": "c"
+  },
+  {
+   "n": "Galettes de riz soufflé",
+   "k": "biscuits",
+   "h": "c"
+  },
+  {
+   "n": "Miel",
+   "k": "chocolat",
+   "h": "f"
+  },
+  {
+   "n": "Sucre en poudre",
+   "k": "chocolat",
+   "h": "f"
+  },
+  {
+   "n": "Sucre glace",
+   "k": "chocolat",
+   "h": "f"
+  },
+  {
+   "n": "Sucre roux",
+   "k": "chocolat",
+   "h": "f"
+  },
+  {
+   "n": "Sirop d'érable",
+   "k": "chocolat",
+   "h": "f"
+  },
+  {
+   "n": "Sirop d'agave",
+   "k": "chocolat",
+   "h": "f"
+  },
+  {
+   "n": "Confiture de fraise",
+   "k": "chocolat",
+   "h": "f"
+  },
+  {
+   "n": "Confiture d'abricot",
+   "k": "chocolat",
+   "h": "f"
+  },
+  {
+   "n": "Compote sans sucre ajouté",
+   "k": "chocolat",
+   "h": "f"
+  },
+  {
+   "n": "Purée d'amande",
+   "k": "chocolat",
+   "h": "f"
+  },
+  {
+   "n": "Beurre de cacahuète",
+   "k": "chocolat",
+   "h": "f"
+  },
+  {
+   "n": "Cacao en poudre non sucré",
+   "k": "chocolat",
+   "h": "f"
+  },
+  {
+   "n": "Gelée de fruits",
+   "k": "chocolat",
+   "h": "f"
+  },
+  {
+   "n": "Marrons glacés",
+   "k": "chocolat",
+   "h": "f"
+  },
+  {
+   "n": "Pâte d'amande",
+   "k": "chocolat",
+   "h": "f"
+  },
+  {
+   "n": "Guimauves (certaines marques)",
+   "k": "chocolat",
+   "h": "f"
+  },
+  {
+   "n": "Chocolat noir",
+   "k": "chocolat",
+   "h": "c"
+  },
+  {
+   "n": "Chocolat au lait",
+   "k": "chocolat",
+   "h": "c"
+  },
+  {
+   "n": "Chocolat blanc",
+   "k": "chocolat",
+   "h": "c"
+  },
+  {
+   "n": "Chocolat à pâtisser",
+   "k": "chocolat",
+   "h": "c"
+  },
+  {
+   "n": "Pâte à tartiner",
+   "k": "chocolat",
+   "h": "c"
+  },
+  {
+   "n": "Bonbons",
+   "k": "chocolat",
+   "h": "c"
+  },
+  {
+   "n": "Caramels",
+   "k": "chocolat",
+   "h": "c"
+  },
+  {
+   "n": "Bonbons gélifiés",
+   "k": "chocolat",
+   "h": "c"
+  },
+  {
+   "n": "Réglisse",
+   "k": "chocolat",
+   "h": "c"
+  },
+  {
+   "n": "Chewing-gum",
+   "k": "chocolat",
+   "h": "c"
+  },
+  {
+   "n": "Pâtes de fruits",
+   "k": "chocolat",
+   "h": "c"
+  },
+  {
+   "n": "Poudre chocolatée",
+   "k": "chocolat",
+   "h": "c"
+  },
+  {
+   "n": "Nougat",
+   "k": "chocolat",
+   "h": "c"
+  },
+  {
+   "n": "Barres chocolatées",
+   "k": "chocolat",
+   "h": "c"
+  },
+  {
+   "n": "Crème de marrons",
+   "k": "chocolat",
+   "h": "c"
+  },
+  {
+   "n": "Flocons de blé",
+   "k": "cereales",
+   "h": "g"
+  },
+  {
+   "n": "Müesli",
+   "k": "cereales",
+   "h": "g"
+  },
+  {
+   "n": "Granola",
+   "k": "cereales",
+   "h": "g"
+  },
+  {
+   "n": "Céréales soufflées au blé",
+   "k": "cereales",
+   "h": "g"
+  },
+  {
+   "n": "Céréales au chocolat",
+   "k": "cereales",
+   "h": "g"
+  },
+  {
+   "n": "Corn flakes (malt)",
+   "k": "cereales",
+   "h": "g"
+  },
+  {
+   "n": "Pétales d'orge",
+   "k": "cereales",
+   "h": "g"
+  },
+  {
+   "n": "Flocons de maïs nature",
+   "k": "cereales",
+   "h": "f"
+  },
+  {
+   "n": "Flocons de riz",
+   "k": "cereales",
+   "h": "f"
+  },
+  {
+   "n": "Flocons de millet",
+   "k": "cereales",
+   "h": "f"
+  },
+  {
+   "n": "Flocons de sarrasin",
+   "k": "cereales",
+   "h": "f"
+  },
+  {
+   "n": "Flocons de quinoa",
+   "k": "cereales",
+   "h": "f"
+  },
+  {
+   "n": "Riz soufflé nature",
+   "k": "cereales",
+   "h": "f"
+  },
+  {
+   "n": "Flocons d'avoine",
+   "k": "cereales",
+   "h": "c"
+  },
+  {
+   "n": "Porridge",
+   "k": "cereales",
+   "h": "c"
+  },
+  {
+   "n": "Céréales sans gluten",
+   "k": "cereales",
+   "h": "c"
+  },
+  {
+   "n": "Céréales bébé",
+   "k": "cereales",
+   "h": "c"
+  },
+  {
+   "n": "Pétales de maïs",
+   "k": "cereales",
+   "h": "c"
+  },
+  {
+   "n": "Céréales miel et noisettes",
+   "k": "cereales",
+   "h": "c"
+  },
+  {
+   "n": "Farine de blé T55",
+   "k": "farines",
+   "h": "g"
+  },
+  {
+   "n": "Farine complète",
+   "k": "farines",
+   "h": "g"
+  },
+  {
+   "n": "Farine de seigle",
+   "k": "farines",
+   "h": "g"
+  },
+  {
+   "n": "Farine d'épeautre",
+   "k": "farines",
+   "h": "g"
+  },
+  {
+   "n": "Farine d'orge",
+   "k": "farines",
+   "h": "g"
+  },
+  {
+   "n": "Farine à gâteaux",
+   "k": "farines",
+   "h": "g"
+  },
+  {
+   "n": "Farine à pizza",
+   "k": "farines",
+   "h": "g"
+  },
+  {
+   "n": "Semoule fine",
+   "k": "farines",
+   "h": "g"
+  },
+  {
+   "n": "Levain de seigle",
+   "k": "farines",
+   "h": "g"
+  },
+  {
+   "n": "Pâte à pizza prête",
+   "k": "farines",
+   "h": "g"
+  },
+  {
+   "n": "Farine de riz",
+   "k": "farines",
+   "h": "f"
+  },
+  {
+   "n": "Farine de maïs",
+   "k": "farines",
+   "h": "f"
+  },
+  {
+   "n": "Farine de sarrasin",
+   "k": "farines",
+   "h": "f"
+  },
+  {
+   "n": "Farine de châtaigne",
+   "k": "farines",
+   "h": "f"
+  },
+  {
+   "n": "Farine de pois chiche",
+   "k": "farines",
+   "h": "f"
+  },
+  {
+   "n": "Farine de coco",
+   "k": "farines",
+   "h": "f"
+  },
+  {
+   "n": "Farine d'amande",
+   "k": "farines",
+   "h": "f"
+  },
+  {
+   "n": "Farine de manioc",
+   "k": "farines",
+   "h": "f"
+  },
+  {
+   "n": "Fécule de pomme de terre",
+   "k": "farines",
+   "h": "f"
+  },
+  {
+   "n": "Fécule de manioc / tapioca",
+   "k": "farines",
+   "h": "f"
+  },
+  {
+   "n": "Farine de millet",
+   "k": "farines",
+   "h": "f"
+  },
+  {
+   "n": "Farine de quinoa",
+   "k": "farines",
+   "h": "f"
+  },
+  {
+   "n": "Sucre vanillé",
+   "k": "farines",
+   "h": "f"
+  },
+  {
+   "n": "Vanille en gousse",
+   "k": "farines",
+   "h": "f"
+  },
+  {
+   "n": "Gélatine alimentaire",
+   "k": "farines",
+   "h": "f"
+  },
+  {
+   "n": "Agar-agar",
+   "k": "farines",
+   "h": "f"
+  },
+  {
+   "n": "Levure chimique",
+   "k": "farines",
+   "h": "c"
+  },
+  {
+   "n": "Levure de boulanger",
+   "k": "farines",
+   "h": "c"
+  },
+  {
+   "n": "Maïzena",
+   "k": "farines",
+   "h": "c"
+  },
+  {
+   "n": "Mélange de farines sans gluten",
+   "k": "farines",
+   "h": "c"
+  },
+  {
+   "n": "Préparation pour gâteau",
+   "k": "farines",
+   "h": "c"
+  },
+  {
+   "n": "Préparation pour crêpes",
+   "k": "farines",
+   "h": "c"
+  },
+  {
+   "n": "Bicarbonate de soude",
+   "k": "farines",
+   "h": "c"
+  },
+  {
+   "n": "Sucre en morceaux",
+   "k": "farines",
+   "h": "c"
+  },
+  {
+   "n": "Pépites de chocolat",
+   "k": "farines",
+   "h": "c"
+  },
+  {
+   "n": "Arôme vanille",
+   "k": "farines",
+   "h": "c"
+  },
+  {
+   "n": "Colorants alimentaires",
+   "k": "farines",
+   "h": "c"
+  },
+  {
+   "n": "Décorations en sucre",
+   "k": "farines",
+   "h": "c"
+  },
+  {
+   "n": "Sauce soja classique",
+   "k": "sauces",
+   "h": "g"
+  },
+  {
+   "n": "Sauce teriyaki",
+   "k": "sauces",
+   "h": "g"
+  },
+  {
+   "n": "Sauce béchamel",
+   "k": "sauces",
+   "h": "g"
+  },
+  {
+   "n": "Roux",
+   "k": "sauces",
+   "h": "g"
+  },
+  {
+   "n": "Sauce bolognaise",
+   "k": "sauces",
+   "h": "g"
+  },
+  {
+   "n": "Panure",
+   "k": "sauces",
+   "h": "g"
+  },
+  {
+   "n": "Tempura",
+   "k": "sauces",
+   "h": "g"
+  },
+  {
+   "n": "Sauce hoisin",
+   "k": "sauces",
+   "h": "g"
+  },
+  {
+   "n": "Huile d'olive",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Huile de tournesol",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Huile de colza",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Huile de coco",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Huile de sésame",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Vinaigre balsamique",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Vinaigre de vin",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Vinaigre de cidre",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Sel fin",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Gros sel",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Fleur de sel",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Poivre",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Herbes de Provence",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Ail en poudre",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Curry (pur)",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Paprika",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Cumin",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Cannelle",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Piment",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Muscade",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Thym",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Laurier",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Persil",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Basilic",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Safran",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Concentré de tomate",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Tomates concassées",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Coulis de tomate",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Olives",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Cornichons",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Câpres",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Tamari sans gluten",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Sauce de poisson",
+   "k": "sauces",
+   "h": "f"
+  },
+  {
+   "n": "Moutarde",
+   "k": "sauces",
+   "h": "c"
+  },
+  {
+   "n": "Ketchup",
+   "k": "sauces",
+   "h": "c"
+  },
+  {
+   "n": "Mayonnaise",
+   "k": "sauces",
+   "h": "c"
+  },
+  {
+   "n": "Vinaigrette",
+   "k": "sauces",
+   "h": "c"
+  },
+  {
+   "n": "Sauce tomate",
+   "k": "sauces",
+   "h": "c"
+  },
+  {
+   "n": "Sauce pesto",
+   "k": "sauces",
+   "h": "c"
+  },
+  {
+   "n": "Sauce barbecue",
+   "k": "sauces",
+   "h": "c"
+  },
+  {
+   "n": "Sauce soja",
+   "k": "sauces",
+   "h": "c"
+  },
+  {
+   "n": "Bouillon cube",
+   "k": "sauces",
+   "h": "c"
+  },
+  {
+   "n": "Bouillon de légumes",
+   "k": "sauces",
+   "h": "c"
+  },
+  {
+   "n": "Fond de veau",
+   "k": "sauces",
+   "h": "c"
+  },
+  {
+   "n": "Sauce pour pâtes",
+   "k": "sauces",
+   "h": "c"
+  },
+  {
+   "n": "Sauce curry",
+   "k": "sauces",
+   "h": "c"
+  },
+  {
+   "n": "Sauce au poivre",
+   "k": "sauces",
+   "h": "c"
+  },
+  {
+   "n": "Sauce aux champignons",
+   "k": "sauces",
+   "h": "c"
+  },
+  {
+   "n": "Harissa",
+   "k": "sauces",
+   "h": "c"
+  },
+  {
+   "n": "Tahini",
+   "k": "sauces",
+   "h": "c"
+  },
+  {
+   "n": "Épices mélangées",
+   "k": "sauces",
+   "h": "c"
+  },
+  {
+   "n": "Sauce worcestershire",
+   "k": "sauces",
+   "h": "c"
+  },
+  {
+   "n": "Sauce piquante",
+   "k": "sauces",
+   "h": "c"
+  },
+  {
+   "n": "Condiments",
+   "k": "sauces",
+   "h": "c"
+  },
+  {
+   "n": "Sauce salade",
+   "k": "sauces",
+   "h": "c"
+  },
+  {
+   "n": "Chutney",
+   "k": "sauces",
+   "h": "c"
+  },
+  {
+   "n": "Soupe aux vermicelles",
+   "k": "soupes",
+   "h": "g"
+  },
+  {
+   "n": "Soupe de légumes maison",
+   "k": "soupes",
+   "h": "f"
+  },
+  {
+   "n": "Soupe de légumes",
+   "k": "soupes",
+   "h": "c"
+  },
+  {
+   "n": "Velouté",
+   "k": "soupes",
+   "h": "c"
+  },
+  {
+   "n": "Soupe de poisson",
+   "k": "soupes",
+   "h": "c"
+  },
+  {
+   "n": "Soupe en brique",
+   "k": "soupes",
+   "h": "c"
+  },
+  {
+   "n": "Soupe instantanée",
+   "k": "soupes",
+   "h": "c"
+  },
+  {
+   "n": "Bouillon en brique",
+   "k": "soupes",
+   "h": "c"
+  },
+  {
+   "n": "Gaspacho",
+   "k": "soupes",
+   "h": "c"
+  },
+  {
+   "n": "Soupe miso",
+   "k": "soupes",
+   "h": "c"
+  },
+  {
+   "n": "Biscuits apéritif",
+   "k": "snacks",
+   "h": "g"
+  },
+  {
+   "n": "Crackers",
+   "k": "snacks",
+   "h": "g"
+  },
+  {
+   "n": "Bretzels",
+   "k": "snacks",
+   "h": "g"
+  },
+  {
+   "n": "Gressins",
+   "k": "snacks",
+   "h": "g"
+  },
+  {
+   "n": "Tuiles apéritives",
+   "k": "snacks",
+   "h": "g"
+  },
+  {
+   "n": "Noix",
+   "k": "snacks",
+   "h": "f"
+  },
+  {
+   "n": "Noix de cajou",
+   "k": "snacks",
+   "h": "f"
+  },
+  {
+   "n": "Amandes",
+   "k": "snacks",
+   "h": "f"
+  },
+  {
+   "n": "Noisettes",
+   "k": "snacks",
+   "h": "f"
+  },
+  {
+   "n": "Pistaches",
+   "k": "snacks",
+   "h": "f"
+  },
+  {
+   "n": "Cacahuètes natures",
+   "k": "snacks",
+   "h": "f"
+  },
+  {
+   "n": "Graines de tournesol",
+   "k": "snacks",
+   "h": "f"
+  },
+  {
+   "n": "Graines de courge",
+   "k": "snacks",
+   "h": "f"
+  },
+  {
+   "n": "Raisins secs",
+   "k": "snacks",
+   "h": "f"
+  },
+  {
+   "n": "Fruits secs",
+   "k": "snacks",
+   "h": "f"
+  },
+  {
+   "n": "Pop-corn nature",
+   "k": "snacks",
+   "h": "f"
+  },
+  {
+   "n": "Olives apéritif",
+   "k": "snacks",
+   "h": "f"
+  },
+  {
+   "n": "Dattes",
+   "k": "snacks",
+   "h": "f"
+  },
+  {
+   "n": "Chips",
+   "k": "snacks",
+   "h": "c"
+  },
+  {
+   "n": "Chips tortilla",
+   "k": "snacks",
+   "h": "c"
+  },
+  {
+   "n": "Cacahuètes enrobées",
+   "k": "snacks",
+   "h": "c"
+  },
+  {
+   "n": "Mélange apéritif",
+   "k": "snacks",
+   "h": "c"
+  },
+  {
+   "n": "Barres protéinées",
+   "k": "snacks",
+   "h": "c"
+  },
+  {
+   "n": "Galettes de maïs",
+   "k": "snacks",
+   "h": "c"
+  },
+  {
+   "n": "Pop-corn aromatisé",
+   "k": "snacks",
+   "h": "c"
+  },
+  {
+   "n": "Cacahuètes grillées",
+   "k": "snacks",
+   "h": "c"
+  },
+  {
+   "n": "Bière",
+   "k": "boissons",
+   "h": "g"
+  },
+  {
+   "n": "Bière blonde",
+   "k": "boissons",
+   "h": "g"
+  },
+  {
+   "n": "Bière blanche",
+   "k": "boissons",
+   "h": "g"
+  },
+  {
+   "n": "Bière ambrée",
+   "k": "boissons",
+   "h": "g"
+  },
+  {
+   "n": "Panaché",
+   "k": "boissons",
+   "h": "g"
+  },
+  {
+   "n": "Whisky d'orge (à vérifier)",
+   "k": "boissons",
+   "h": "g"
+  },
+  {
+   "n": "Eau plate",
+   "k": "boissons",
+   "h": "f"
+  },
+  {
+   "n": "Eau gazeuse",
+   "k": "boissons",
+   "h": "f"
+  },
+  {
+   "n": "Jus d'orange",
+   "k": "boissons",
+   "h": "f"
+  },
+  {
+   "n": "Jus de pomme",
+   "k": "boissons",
+   "h": "f"
+  },
+  {
+   "n": "Jus de raisin",
+   "k": "boissons",
+   "h": "f"
+  },
+  {
+   "n": "Jus multifruits",
+   "k": "boissons",
+   "h": "f"
+  },
+  {
+   "n": "Jus de tomate",
+   "k": "boissons",
+   "h": "f"
+  },
+  {
+   "n": "Café moulu",
+   "k": "boissons",
+   "h": "f"
+  },
+  {
+   "n": "Café en grains",
+   "k": "boissons",
+   "h": "f"
+  },
+  {
+   "n": "Thé",
+   "k": "boissons",
+   "h": "f"
+  },
+  {
+   "n": "Infusion",
+   "k": "boissons",
+   "h": "f"
+  },
+  {
+   "n": "Vin rouge",
+   "k": "boissons",
+   "h": "f"
+  },
+  {
+   "n": "Vin blanc",
+   "k": "boissons",
+   "h": "f"
+  },
+  {
+   "n": "Vin rosé",
+   "k": "boissons",
+   "h": "f"
+  },
+  {
+   "n": "Champagne",
+   "k": "boissons",
+   "h": "f"
+  },
+  {
+   "n": "Cidre",
+   "k": "boissons",
+   "h": "f"
+  },
+  {
+   "n": "Limonade",
+   "k": "boissons",
+   "h": "f"
+  },
+  {
+   "n": "Cola",
+   "k": "boissons",
+   "h": "f"
+  },
+  {
+   "n": "Sirop",
+   "k": "boissons",
+   "h": "f"
+  },
+  {
+   "n": "Boisson au soja",
+   "k": "boissons",
+   "h": "f"
+  },
+  {
+   "n": "Boisson à l'amande",
+   "k": "boissons",
+   "h": "f"
+  },
+  {
+   "n": "Boisson de riz",
+   "k": "boissons",
+   "h": "f"
+  },
+  {
+   "n": "Eau pétillante aromatisée",
+   "k": "boissons",
+   "h": "f"
+  },
+  {
+   "n": "Eau de coco",
+   "k": "boissons",
+   "h": "f"
+  },
+  {
+   "n": "Café soluble",
+   "k": "boissons",
+   "h": "c"
+  },
+  {
+   "n": "Chocolat en poudre",
+   "k": "boissons",
+   "h": "c"
+  },
+  {
+   "n": "Boisson à l'avoine",
+   "k": "boissons",
+   "h": "c"
+  },
+  {
+   "n": "Bière sans gluten",
+   "k": "boissons",
+   "h": "c"
+  },
+  {
+   "n": "Boisson énergisante",
+   "k": "boissons",
+   "h": "c"
+  },
+  {
+   "n": "Thé glacé",
+   "k": "boissons",
+   "h": "c"
+  },
+  {
+   "n": "Boisson protéinée",
+   "k": "boissons",
+   "h": "c"
+  },
+  {
+   "n": "Spiritueux aromatisés",
+   "k": "boissons",
+   "h": "c"
+  },
+  {
+   "n": "Chicorée",
+   "k": "boissons",
+   "h": "c"
+  },
+  {
+   "n": "Nuggets",
+   "k": "viandes",
+   "h": "g"
+  },
+  {
+   "n": "Cordon bleu",
+   "k": "viandes",
+   "h": "g"
+  },
+  {
+   "n": "Escalope panée",
+   "k": "viandes",
+   "h": "g"
+  },
+  {
+   "n": "Boulettes (avec chapelure)",
+   "k": "viandes",
+   "h": "g"
+  },
+  {
+   "n": "Saucisses avec pain",
+   "k": "viandes",
+   "h": "g"
+  },
+  {
+   "n": "Quenelles",
+   "k": "viandes",
+   "h": "g"
+  },
+  {
+   "n": "Steak végétal (seitan)",
+   "k": "viandes",
+   "h": "g"
+  },
+  {
+   "n": "Poulet entier",
+   "k": "viandes",
+   "h": "f"
+  },
+  {
+   "n": "Blanc de poulet",
+   "k": "viandes",
+   "h": "f"
+  },
+  {
+   "n": "Cuisses de poulet",
+   "k": "viandes",
+   "h": "f"
+  },
+  {
+   "n": "Dinde",
+   "k": "viandes",
+   "h": "f"
+  },
+  {
+   "n": "Bœuf à braiser",
+   "k": "viandes",
+   "h": "f"
+  },
+  {
+   "n": "Steak",
+   "k": "viandes",
+   "h": "f"
+  },
+  {
+   "n": "Côte de bœuf",
+   "k": "viandes",
+   "h": "f"
+  },
+  {
+   "n": "Rôti de porc",
+   "k": "viandes",
+   "h": "f"
+  },
+  {
+   "n": "Côtes de porc",
+   "k": "viandes",
+   "h": "f"
+  },
+  {
+   "n": "Agneau",
+   "k": "viandes",
+   "h": "f"
+  },
+  {
+   "n": "Veau",
+   "k": "viandes",
+   "h": "f"
+  },
+  {
+   "n": "Canard",
+   "k": "viandes",
+   "h": "f"
+  },
+  {
+   "n": "Lapin",
+   "k": "viandes",
+   "h": "f"
+  },
+  {
+   "n": "Jambon blanc (sans additif)",
+   "k": "viandes",
+   "h": "f"
+  },
+  {
+   "n": "Jambon cru",
+   "k": "viandes",
+   "h": "f"
+  },
+  {
+   "n": "Lardons",
+   "k": "viandes",
+   "h": "f"
+  },
+  {
+   "n": "Bacon",
+   "k": "viandes",
+   "h": "f"
+  },
+  {
+   "n": "Foie gras",
+   "k": "viandes",
+   "h": "f"
+  },
+  {
+   "n": "Œufs",
+   "k": "viandes",
+   "h": "f"
+  },
+  {
+   "n": "Bœuf haché pur",
+   "k": "viandes",
+   "h": "f"
+  },
+  {
+   "n": "Saucisses",
+   "k": "viandes",
+   "h": "c"
+  },
+  {
+   "n": "Saucisson",
+   "k": "viandes",
+   "h": "c"
+  },
+  {
+   "n": "Merguez",
+   "k": "viandes",
+   "h": "c"
+  },
+  {
+   "n": "Chipolatas",
+   "k": "viandes",
+   "h": "c"
+  },
+  {
+   "n": "Steaks hachés surgelés",
+   "k": "viandes",
+   "h": "c"
+  },
+  {
+   "n": "Boulettes de viande",
+   "k": "viandes",
+   "h": "c"
+  },
+  {
+   "n": "Pâté",
+   "k": "viandes",
+   "h": "c"
+  },
+  {
+   "n": "Rillettes",
+   "k": "viandes",
+   "h": "c"
+  },
+  {
+   "n": "Terrine",
+   "k": "viandes",
+   "h": "c"
+  },
+  {
+   "n": "Knacki",
+   "k": "viandes",
+   "h": "c"
+  },
+  {
+   "n": "Charcuterie tranchée",
+   "k": "viandes",
+   "h": "c"
+  },
+  {
+   "n": "Chorizo",
+   "k": "viandes",
+   "h": "c"
+  },
+  {
+   "n": "Jambon cuit",
+   "k": "viandes",
+   "h": "c"
+  },
+  {
+   "n": "Viande marinée",
+   "k": "viandes",
+   "h": "c"
+  },
+  {
+   "n": "Plats cuisinés à la viande",
+   "k": "viandes",
+   "h": "c"
+  },
+  {
+   "n": "Boudin",
+   "k": "viandes",
+   "h": "c"
+  },
+  {
+   "n": "Poisson pané",
+   "k": "poissons",
+   "h": "g"
+  },
+  {
+   "n": "Beignets de calamars",
+   "k": "poissons",
+   "h": "g"
+  },
+  {
+   "n": "Croquettes de poisson",
+   "k": "poissons",
+   "h": "g"
+  },
+  {
+   "n": "Saumon frais",
+   "k": "poissons",
+   "h": "f"
+  },
+  {
+   "n": "Cabillaud",
+   "k": "poissons",
+   "h": "f"
+  },
+  {
+   "n": "Colin",
+   "k": "poissons",
+   "h": "f"
+  },
+  {
+   "n": "Thon frais",
+   "k": "poissons",
+   "h": "f"
+  },
+  {
+   "n": "Truite",
+   "k": "poissons",
+   "h": "f"
+  },
+  {
+   "n": "Dorade",
+   "k": "poissons",
+   "h": "f"
+  },
+  {
+   "n": "Bar",
+   "k": "poissons",
+   "h": "f"
+  },
+  {
+   "n": "Sardines fraîches",
+   "k": "poissons",
+   "h": "f"
+  },
+  {
+   "n": "Maquereau",
+   "k": "poissons",
+   "h": "f"
+  },
+  {
+   "n": "Crevettes",
+   "k": "poissons",
+   "h": "f"
+  },
+  {
+   "n": "Moules",
+   "k": "poissons",
+   "h": "f"
+  },
+  {
+   "n": "Huîtres",
+   "k": "poissons",
+   "h": "f"
+  },
+  {
+   "n": "Saint-Jacques",
+   "k": "poissons",
+   "h": "f"
+  },
+  {
+   "n": "Calamars",
+   "k": "poissons",
+   "h": "f"
+  },
+  {
+   "n": "Poulpe",
+   "k": "poissons",
+   "h": "f"
+  },
+  {
+   "n": "Crabe",
+   "k": "poissons",
+   "h": "f"
+  },
+  {
+   "n": "Saumon fumé",
+   "k": "poissons",
+   "h": "f"
+  },
+  {
+   "n": "Thon au naturel",
+   "k": "poissons",
+   "h": "f"
+  },
+  {
+   "n": "Sardines à l'huile",
+   "k": "poissons",
+   "h": "f"
+  },
+  {
+   "n": "Surimi",
+   "k": "poissons",
+   "h": "c"
+  },
+  {
+   "n": "Thon à la sauce",
+   "k": "poissons",
+   "h": "c"
+  },
+  {
+   "n": "Maquereau à la moutarde",
+   "k": "poissons",
+   "h": "c"
+  },
+  {
+   "n": "Rillettes de poisson",
+   "k": "poissons",
+   "h": "c"
+  },
+  {
+   "n": "Plats cuisinés au poisson",
+   "k": "poissons",
+   "h": "c"
+  },
+  {
+   "n": "Tarama",
+   "k": "poissons",
+   "h": "c"
+  },
+  {
+   "n": "Filets de poisson surgelés",
+   "k": "poissons",
+   "h": "c"
+  },
+  {
+   "n": "Poisson à la sauce",
+   "k": "poissons",
+   "h": "c"
+  },
+  {
+   "n": "Lait demi-écrémé",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Lait entier",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Lait écrémé",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Lait de coco",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Beurre",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Beurre doux",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Beurre demi-sel",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Crème fraîche",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Crème liquide",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Yaourt nature",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Fromage blanc",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Faisselle",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Skyr",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Emmental",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Comté",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Gruyère",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Mozzarella",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Parmesan",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Camembert",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Brie",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Chèvre",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Feta",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Roquefort",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Fromage râpé",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Mascarpone",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Ricotta",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Œufs frais",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Œufs bio",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Lait infantile",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Cantal",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Raclette",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Munster",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Reblochon",
+   "k": "laitiers",
+   "h": "f"
+  },
+  {
+   "n": "Yaourt aux fruits",
+   "k": "laitiers",
+   "h": "c"
+  },
+  {
+   "n": "Yaourt à boire",
+   "k": "laitiers",
+   "h": "c"
+  },
+  {
+   "n": "Fromage fondu",
+   "k": "laitiers",
+   "h": "c"
+  },
+  {
+   "n": "Fromage à tartiner",
+   "k": "laitiers",
+   "h": "c"
+  },
+  {
+   "n": "Crème dessert",
+   "k": "laitiers",
+   "h": "c"
+  },
+  {
+   "n": "Dessert lacté",
+   "k": "laitiers",
+   "h": "c"
+  },
+  {
+   "n": "Glace",
+   "k": "laitiers",
+   "h": "c"
+  },
+  {
+   "n": "Riz au lait",
+   "k": "laitiers",
+   "h": "c"
+  },
+  {
+   "n": "Flan",
+   "k": "laitiers",
+   "h": "c"
+  },
+  {
+   "n": "Fromages aromatisés",
+   "k": "laitiers",
+   "h": "c"
+  },
+  {
+   "n": "Petits-suisses",
+   "k": "laitiers",
+   "h": "c"
+  },
+  {
+   "n": "Lait aromatisé",
+   "k": "laitiers",
+   "h": "c"
+  },
+  {
+   "n": "Crème glacée",
+   "k": "laitiers",
+   "h": "c"
+  },
+  {
+   "n": "Sorbet",
+   "k": "laitiers",
+   "h": "c"
+  },
+  {
+   "n": "Fromage frais aux herbes",
+   "k": "laitiers",
+   "h": "c"
+  },
+  {
+   "n": "Chantilly",
+   "k": "laitiers",
+   "h": "c"
+  },
+  {
+   "n": "Pommes",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Poires",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Bananes",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Oranges",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Clémentines",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Citrons",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Raisins",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Fraises",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Framboises",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Myrtilles",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Pêches",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Abricots",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Cerises",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Melon",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Pastèque",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Kiwis",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Ananas",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Mangue",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Avocats",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Tomates",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Concombres",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Carottes",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Courgettes",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Aubergines",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Poivrons",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Oignons",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Échalotes",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Ail",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Pommes de terre",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Patates douces",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Salade verte",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Épinards",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Brocolis",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Chou-fleur",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Chou",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Haricots verts",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Petits pois",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Poireaux",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Champignons",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Radis",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Betteraves",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Céleri",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Fenouil",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Courge",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Potiron",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Maïs en conserve",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Légumes surgelés nature",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Fruits surgelés",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Herbes fraîches",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Gingembre",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Artichauts",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Asperges",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Navets",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Endives",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Légumes en conserve",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Compote",
+   "k": "fruits_legumes",
+   "h": "f"
+  },
+  {
+   "n": "Légumes surgelés cuisinés",
+   "k": "fruits_legumes",
+   "h": "c"
+  },
+  {
+   "n": "Frites surgelées",
+   "k": "fruits_legumes",
+   "h": "c"
+  },
+  {
+   "n": "Purée en flocons",
+   "k": "fruits_legumes",
+   "h": "c"
+  },
+  {
+   "n": "Poêlées de légumes",
+   "k": "fruits_legumes",
+   "h": "c"
+  },
+  {
+   "n": "Légumes sauce",
+   "k": "fruits_legumes",
+   "h": "c"
+  },
+  {
+   "n": "Salade composée",
+   "k": "fruits_legumes",
+   "h": "c"
+  },
+  {
+   "n": "Légumes marinés",
+   "k": "fruits_legumes",
+   "h": "c"
+  },
+  {
+   "n": "Gratin surgelé",
+   "k": "fruits_legumes",
+   "h": "c"
+  },
+  {
+   "n": "Riz basmati",
+   "k": "riz",
+   "h": "f"
+  },
+  {
+   "n": "Riz long",
+   "k": "riz",
+   "h": "f"
+  },
+  {
+   "n": "Riz rond",
+   "k": "riz",
+   "h": "f"
+  },
+  {
+   "n": "Riz complet",
+   "k": "riz",
+   "h": "f"
+  },
+  {
+   "n": "Riz thaï",
+   "k": "riz",
+   "h": "f"
+  },
+  {
+   "n": "Riz sauvage",
+   "k": "riz",
+   "h": "f"
+  },
+  {
+   "n": "Quinoa",
+   "k": "riz",
+   "h": "f"
+  },
+  {
+   "n": "Millet",
+   "k": "riz",
+   "h": "f"
+  },
+  {
+   "n": "Sarrasin (grains)",
+   "k": "riz",
+   "h": "f"
+  },
+  {
+   "n": "Polenta",
+   "k": "riz",
+   "h": "f"
+  },
+  {
+   "n": "Lentilles vertes",
+   "k": "riz",
+   "h": "f"
+  },
+  {
+   "n": "Lentilles corail",
+   "k": "riz",
+   "h": "f"
+  },
+  {
+   "n": "Lentilles blondes",
+   "k": "riz",
+   "h": "f"
+  },
+  {
+   "n": "Pois chiches",
+   "k": "riz",
+   "h": "f"
+  },
+  {
+   "n": "Haricots rouges",
+   "k": "riz",
+   "h": "f"
+  },
+  {
+   "n": "Haricots blancs",
+   "k": "riz",
+   "h": "f"
+  },
+  {
+   "n": "Pois cassés",
+   "k": "riz",
+   "h": "f"
+  },
+  {
+   "n": "Fèves",
+   "k": "riz",
+   "h": "f"
+  },
+  {
+   "n": "Pommes de terre en conserve",
+   "k": "riz",
+   "h": "f"
+  },
+  {
+   "n": "Châtaignes",
+   "k": "riz",
+   "h": "f"
+  },
+  {
+   "n": "Maïs (grains)",
+   "k": "riz",
+   "h": "f"
+  },
+  {
+   "n": "Boulgour sans gluten (à vérifier)",
+   "k": "riz",
+   "h": "f"
+  },
+  {
+   "n": "Amarante",
+   "k": "riz",
+   "h": "f"
+  },
+  {
+   "n": "Tapioca",
+   "k": "riz",
+   "h": "f"
+  },
+  {
+   "n": "Riz cuisiné",
+   "k": "riz",
+   "h": "c"
+  },
+  {
+   "n": "Riz micro-ondable",
+   "k": "riz",
+   "h": "c"
+  },
+  {
+   "n": "Mélange de céréales",
+   "k": "riz",
+   "h": "c"
+  },
+  {
+   "n": "Risotto",
+   "k": "riz",
+   "h": "c"
+  },
+  {
+   "n": "Taboulé",
+   "k": "riz",
+   "h": "c"
+  },
+  {
+   "n": "Légumes secs en conserve",
+   "k": "riz",
+   "h": "c"
+  },
+  {
+   "n": "Quinoa cuisiné",
+   "k": "riz",
+   "h": "c"
+  },
+  {
+   "n": "Purée instantanée",
+   "k": "riz",
+   "h": "c"
+  },
+  {
+   "n": "Pizza surgelée",
+   "k": "plats",
+   "h": "g"
+  },
+  {
+   "n": "Pizza fraîche",
+   "k": "plats",
+   "h": "g"
+  },
+  {
+   "n": "Quiche",
+   "k": "plats",
+   "h": "g"
+  },
+  {
+   "n": "Tarte salée",
+   "k": "plats",
+   "h": "g"
+  },
+  {
+   "n": "Lasagnes",
+   "k": "plats",
+   "h": "g"
+  },
+  {
+   "n": "Hachis parmentier (chapelure)",
+   "k": "plats",
+   "h": "g"
+  },
+  {
+   "n": "Croque-monsieur",
+   "k": "plats",
+   "h": "g"
+  },
+  {
+   "n": "Sandwich",
+   "k": "plats",
+   "h": "g"
+  },
+  {
+   "n": "Wrap",
+   "k": "plats",
+   "h": "g"
+  },
+  {
+   "n": "Hamburger",
+   "k": "plats",
+   "h": "g"
+  },
+  {
+   "n": "Kebab",
+   "k": "plats",
+   "h": "g"
+  },
+  {
+   "n": "Nems",
+   "k": "plats",
+   "h": "g"
+  },
+  {
+   "n": "Samoussas",
+   "k": "plats",
+   "h": "g"
+  },
+  {
+   "n": "Feuilletés",
+   "k": "plats",
+   "h": "g"
+  },
+  {
+   "n": "Croissant jambon-fromage",
+   "k": "plats",
+   "h": "g"
+  },
+  {
+   "n": "Tourte",
+   "k": "plats",
+   "h": "g"
+  },
+  {
+   "n": "Gratin dauphinois (béchamel)",
+   "k": "plats",
+   "h": "g"
+  },
+  {
+   "n": "Raviolis en conserve",
+   "k": "plats",
+   "h": "g"
+  },
+  {
+   "n": "Cassoulet",
+   "k": "plats",
+   "h": "g"
+  },
+  {
+   "n": "Pâtes carbonara",
+   "k": "plats",
+   "h": "g"
+  },
+  {
+   "n": "Tarte flambée",
+   "k": "plats",
+   "h": "g"
+  },
+  {
+   "n": "Salade de riz maison",
+   "k": "plats",
+   "h": "f"
+  },
+  {
+   "n": "Omelette nature",
+   "k": "plats",
+   "h": "f"
+  },
+  {
+   "n": "Riz cantonais (à vérifier)",
+   "k": "plats",
+   "h": "f"
+  },
+  {
+   "n": "Plat cuisiné",
+   "k": "plats",
+   "h": "c"
+  },
+  {
+   "n": "Plat cuisiné frais",
+   "k": "plats",
+   "h": "c"
+  },
+  {
+   "n": "Plat cuisiné surgelé",
+   "k": "plats",
+   "h": "c"
+  },
+  {
+   "n": "Salade composée",
+   "k": "plats",
+   "h": "c"
+  },
+  {
+   "n": "Sushi",
+   "k": "plats",
+   "h": "c"
+  },
+  {
+   "n": "Plat végétarien",
+   "k": "plats",
+   "h": "c"
+  },
+  {
+   "n": "Plat bébé",
+   "k": "plats",
+   "h": "c"
+  },
+  {
+   "n": "Purée en brique",
+   "k": "plats",
+   "h": "c"
+  },
+  {
+   "n": "Plat en conserve",
+   "k": "plats",
+   "h": "c"
+  },
+  {
+   "n": "Poêlée surgelée",
+   "k": "plats",
+   "h": "c"
+  },
+  {
+   "n": "Taboulé en barquette",
+   "k": "plats",
+   "h": "c"
+  },
+  {
+   "n": "Falafels",
+   "k": "plats",
+   "h": "c"
+  },
+  {
+   "n": "Galettes de légumes",
+   "k": "plats",
+   "h": "c"
+  },
+  {
+   "n": "Steak de soja",
+   "k": "plats",
+   "h": "c"
+  },
+  {
+   "n": "Conserve de légumes",
+   "k": "epicerie",
+   "h": "f"
+  },
+  {
+   "n": "Conserve de fruits",
+   "k": "epicerie",
+   "h": "f"
+  },
+  {
+   "n": "Substitut de repas",
+   "k": "epicerie",
+   "h": "c"
+  },
+  {
+   "n": "Compléments alimentaires",
+   "k": "epicerie",
+   "h": "c"
+  },
+  {
+   "n": "Aliments bébé",
+   "k": "epicerie",
+   "h": "c"
+  },
+  {
+   "n": "Produits diététiques",
+   "k": "epicerie",
+   "h": "c"
+  },
+  {
+   "n": "Produits bio",
+   "k": "epicerie",
+   "h": "c"
+  },
+  {
+   "n": "Produits d'épicerie asiatique",
+   "k": "epicerie",
+   "h": "c"
+  },
+  {
+   "n": "Produits d'épicerie orientale",
+   "k": "epicerie",
+   "h": "c"
+  },
+  {
+   "n": "Condiments pour sushi",
+   "k": "epicerie",
+   "h": "c"
+  }
+ ]
+}
