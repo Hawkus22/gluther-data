@@ -30,19 +30,27 @@ Sélection : produits de l'export Open Food Facts vendus en France (`countries_t
 codes-barres commençant par 3, 4, 5 ou 8, avec un nom et un texte d'ingrédients. Le script est dans
 `tools/extract.py` (export du 10/10/2026 : 293 059 produits).
 
-## Recettes sans gluten
+## Recettes et plans de repas
 
-`recipes.json` : recettes originales GlutHer, libres de droits (CC0 1.0).
+`recipes.json` : recettes originales GlutHer, libres de droits (CC0 1.0). Trois plans de repas de 30 jours
+(2 repas par jour + un en-cas, 4 personnes), de 88 recettes chacun, avec les mêmes codes et le même calendrier :
+
+| Plan (`plan`) | Régime | `diet` |
+| --- | --- | --- |
+| `cel` | sans gluten (maladie cœliaque) | `["sg"]` |
+| `lac` | sans lactose (contient du gluten) | `["sl"]` |
+| `mix` | sans gluten et sans lactose | `["sg","sl"]` |
 
 - `version` : numéro de version (l'appli adopte une version plus récente) ;
-- `recipes[]` : `id`, `t` titre, `c` plat (`entree`, `plat`, `dessert`, `petitdej`), `s` nombre de personnes,
-  `m` minutes, `i` ingrédients, `st` étapes ;
-- ingrédient : `n` nom, `q` quantité, `u` unité, `k` rayon (voir la liste de courses), `v` = 1 si l'ingrédient
-  est **à risque** pour un coeliaque (sauce ou bouillon du commerce, produit pouvant contenir du gluten ou être
-  contaminé : farines, chocolat, charcuterie…). Le « mode strict » de l'appli masque les recettes qui en contiennent.
+- `calendar[]` : 30 jours, `d` jour, `l` déjeuner (entrée + plat), `n` dîner (plat + dessert), `s` en-cas (codes de recettes) ;
+- `recipes[]` : `id` (`plan-code`), `plan`, `code` (E01…C12), `t` titre, `c` plat (`entree`, `plat`, `dessert`, `encas`),
+  `s` personnes, `m` minutes, `i` ingrédients, `st` étapes, `chk` produits à vérifier, `cc` contamination croisée / lactose caché ;
+- ingrédient : `n` nom, `q` quantité, `u` unité, `k` rayon (voir la liste de courses), `v` = 1 si l'ingrédient est **à risque**
+  pour un coeliaque (sauce ou bouillon du commerce, produit pouvant contenir du gluten ou être contaminé : farines, mélanges,
+  chocolat, charcuterie…), `l` = `sl` (version sans lactose obligatoire) ou `lire` (lactose caché possible).
 
-Chaque ingrédient est contrôlé par l'analyseur de gluten de GlutHer (aucun terme de gluten, les ambigus sont signalés).
-Ce contrôle automatique ne remplace pas la lecture de l'étiquette des produits utilisés.
+Les plans sont contrôlés automatiquement (aucun ingrédient à gluten dans les plans sans gluten, aucun produit laitier dans les
+plans sans lactose). Ce contrôle ne remplace ni l'avis d'un(e) diététicien(ne) ni la lecture de l'étiquette des produits.
 
 ## Licence et attribution
 
