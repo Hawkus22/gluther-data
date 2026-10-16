@@ -1,0 +1,2971 @@
+{
+ "version": 1,
+ "name": "GlutHer - recettes sans gluten",
+ "recipes": [
+  {
+   "id": "salade-tomates-mozzarella",
+   "t": "Salade tomates mozzarella",
+   "c": "entree",
+   "s": 4,
+   "m": 10,
+   "i": [
+    {
+     "n": "Tomates",
+     "q": 4,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Mozzarella",
+     "q": 250,
+     "u": "g",
+     "k": "laitiers"
+    },
+    {
+     "n": "Basilic",
+     "q": 1,
+     "u": "botte",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Huile d'olive",
+     "q": 3,
+     "u": "c. à soupe",
+     "k": "sauces"
+    },
+    {
+     "n": "Vinaigre balsamique",
+     "q": 1,
+     "u": "c. à soupe",
+     "k": "sauces",
+     "v": 1
+    }
+   ],
+   "st": [
+    "Coupez les tomates et la mozzarella en tranches.",
+    "Alternez-les dans un plat avec les feuilles de basilic.",
+    "Arrosez d'huile d'olive et de vinaigre balsamique, salez et poivrez."
+   ]
+  },
+  {
+   "id": "veloute-de-potiron",
+   "t": "Velouté de potiron",
+   "c": "entree",
+   "s": 4,
+   "m": 35,
+   "i": [
+    {
+     "n": "Potiron",
+     "q": 800,
+     "u": "g",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Oignon",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Bouillon de légumes sans gluten",
+     "q": 750,
+     "u": "ml",
+     "k": "sauces",
+     "v": 1
+    },
+    {
+     "n": "Crème fraîche",
+     "q": 10,
+     "u": "cl",
+     "k": "laitiers"
+    },
+    {
+     "n": "Beurre",
+     "q": 20,
+     "u": "g",
+     "k": "laitiers"
+    }
+   ],
+   "st": [
+    "Faites revenir l'oignon émincé dans le beurre.",
+    "Ajoutez le potiron en cubes et le bouillon, puis cuisez 25 minutes.",
+    "Mixez, ajoutez la crème fraîche, salez, poivrez et servez chaud."
+   ]
+  },
+  {
+   "id": "soupe-de-carottes-au-cumin",
+   "t": "Soupe de carottes au cumin",
+   "c": "entree",
+   "s": 4,
+   "m": 35,
+   "i": [
+    {
+     "n": "Carottes",
+     "q": 700,
+     "u": "g",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Pommes de terre",
+     "q": 2,
+     "k": "riz"
+    },
+    {
+     "n": "Oignon",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Cumin",
+     "q": 1,
+     "u": "c. à café",
+     "k": "sauces"
+    },
+    {
+     "n": "Huile d'olive",
+     "q": 2,
+     "u": "c. à soupe",
+     "k": "sauces"
+    }
+   ],
+   "st": [
+    "Faites revenir l'oignon dans l'huile, ajoutez les carottes et les pommes de terre en morceaux.",
+    "Couvrez d'eau (environ 1 litre), ajoutez le cumin et cuisez 25 minutes.",
+    "Mixez, salez, poivrez."
+   ]
+  },
+  {
+   "id": "salade-de-lentilles",
+   "t": "Salade de lentilles",
+   "c": "entree",
+   "s": 4,
+   "m": 30,
+   "i": [
+    {
+     "n": "Lentilles vertes",
+     "q": 250,
+     "u": "g",
+     "k": "riz"
+    },
+    {
+     "n": "Échalotes",
+     "q": 2,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Carottes",
+     "q": 2,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Persil",
+     "q": 1,
+     "u": "botte",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Moutarde",
+     "q": 1,
+     "u": "c. à soupe",
+     "k": "sauces",
+     "v": 1
+    },
+    {
+     "n": "Vinaigre de vin",
+     "q": 2,
+     "u": "c. à soupe",
+     "k": "sauces"
+    },
+    {
+     "n": "Huile d'olive",
+     "q": 3,
+     "u": "c. à soupe",
+     "k": "sauces"
+    }
+   ],
+   "st": [
+    "Cuisez les lentilles 20 minutes dans l'eau bouillante, égouttez.",
+    "Préparez la vinaigrette : moutarde, vinaigre, huile, sel, poivre.",
+    "Mélangez les lentilles tièdes avec les échalotes, les carottes râpées, le persil et la vinaigrette."
+   ]
+  },
+  {
+   "id": "houmous-et-batonnets-de-legumes",
+   "t": "Houmous et bâtonnets de légumes",
+   "c": "entree",
+   "s": 4,
+   "m": 15,
+   "i": [
+    {
+     "n": "Pois chiches cuits",
+     "q": 400,
+     "u": "g",
+     "k": "riz"
+    },
+    {
+     "n": "Tahini",
+     "q": 2,
+     "u": "c. à soupe",
+     "k": "sauces"
+    },
+    {
+     "n": "Citron",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Ail",
+     "q": 1,
+     "u": "gousse",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Huile d'olive",
+     "q": 3,
+     "u": "c. à soupe",
+     "k": "sauces"
+    },
+    {
+     "n": "Cumin",
+     "q": 1,
+     "u": "c. à café",
+     "k": "sauces"
+    },
+    {
+     "n": "Carottes",
+     "q": 3,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Concombre",
+     "q": 1,
+     "k": "fruits_legumes"
+    }
+   ],
+   "st": [
+    "Égouttez les pois chiches et mixez-les avec le tahini, le jus du citron, ail, cumin et huile.",
+    "Ajoutez un peu d'eau pour une texture lisse, salez.",
+    "Servez avec des bâtonnets de carotte et de concombre."
+   ]
+  },
+  {
+   "id": "ufs-mimosa",
+   "t": "Œufs mimosa",
+   "c": "entree",
+   "s": 4,
+   "m": 25,
+   "i": [
+    {
+     "n": "Œufs",
+     "q": 6,
+     "k": "laitiers"
+    },
+    {
+     "n": "Mayonnaise",
+     "q": 4,
+     "u": "c. à soupe",
+     "k": "sauces",
+     "v": 1
+    },
+    {
+     "n": "Ciboulette",
+     "q": 1,
+     "u": "botte",
+     "k": "fruits_legumes"
+    }
+   ],
+   "st": [
+    "Cuisez les œufs 10 minutes dans l'eau bouillante, refroidissez-les et écalez-les.",
+    "Coupez-les en deux, retirez les jaunes et écrasez-les avec la mayonnaise.",
+    "Garnissez les blancs, parsemez de ciboulette."
+   ]
+  },
+  {
+   "id": "salade-de-chevre-chaud-sans-pain",
+   "t": "Salade de chèvre chaud sans pain",
+   "c": "entree",
+   "s": 4,
+   "m": 20,
+   "i": [
+    {
+     "n": "Bûche de chèvre",
+     "q": 1,
+     "k": "laitiers"
+    },
+    {
+     "n": "Salade verte",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Noix",
+     "q": 8,
+     "k": "snacks"
+    },
+    {
+     "n": "Miel",
+     "q": 2,
+     "u": "c. à café",
+     "k": "chocolat"
+    },
+    {
+     "n": "Tomates cerises",
+     "q": 200,
+     "u": "g",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Huile d'olive",
+     "q": 2,
+     "u": "c. à soupe",
+     "k": "sauces"
+    },
+    {
+     "n": "Vinaigre de cidre",
+     "q": 1,
+     "u": "c. à soupe",
+     "k": "sauces"
+    }
+   ],
+   "st": [
+    "Coupez le chèvre en rondelles, déposez-les sur une plaque et passez-les 8 minutes sous le gril, avec un filet de miel.",
+    "Dressez la salade, les tomates cerises et les noix.",
+    "Ajoutez le chèvre chaud, huile et vinaigre."
+   ]
+  },
+  {
+   "id": "salade-de-riz-nicoise",
+   "t": "Salade de riz niçoise",
+   "c": "entree",
+   "s": 4,
+   "m": 25,
+   "i": [
+    {
+     "n": "Riz long",
+     "q": 200,
+     "u": "g",
+     "k": "riz"
+    },
+    {
+     "n": "Thon au naturel",
+     "q": 1,
+     "u": "boîte",
+     "k": "poissons"
+    },
+    {
+     "n": "Tomates",
+     "q": 2,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Œufs",
+     "q": 3,
+     "k": "laitiers"
+    },
+    {
+     "n": "Olives noires",
+     "q": 60,
+     "u": "g",
+     "k": "sauces"
+    },
+    {
+     "n": "Poivron",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Huile d'olive",
+     "q": 3,
+     "u": "c. à soupe",
+     "k": "sauces"
+    }
+   ],
+   "st": [
+    "Cuisez le riz, rincez-le et laissez-le refroidir. Cuisez les œufs durs.",
+    "Coupez les tomates, le poivron et les œufs.",
+    "Mélangez avec le riz, le thon émietté et les olives, assaisonnez à l'huile d'olive."
+   ]
+  },
+  {
+   "id": "carpaccio-de-courgettes",
+   "t": "Carpaccio de courgettes",
+   "c": "entree",
+   "s": 4,
+   "m": 15,
+   "i": [
+    {
+     "n": "Courgettes",
+     "q": 2,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Citron",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Parmesan",
+     "q": 40,
+     "u": "g",
+     "k": "laitiers"
+    },
+    {
+     "n": "Huile d'olive",
+     "q": 3,
+     "u": "c. à soupe",
+     "k": "sauces"
+    },
+    {
+     "n": "Pignons",
+     "q": 30,
+     "u": "g",
+     "k": "snacks"
+    },
+    {
+     "n": "Basilic",
+     "q": 1,
+     "u": "botte",
+     "k": "fruits_legumes"
+    }
+   ],
+   "st": [
+    "Taillez les courgettes en fines lamelles avec un économe.",
+    "Disposez-les dans une assiette, arrosez de citron et d'huile.",
+    "Parsemez de copeaux de parmesan, de pignons et de basilic."
+   ]
+  },
+  {
+   "id": "gaspacho",
+   "t": "Gaspacho",
+   "c": "entree",
+   "s": 4,
+   "m": 15,
+   "i": [
+    {
+     "n": "Tomates",
+     "q": 1,
+     "u": "kg",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Concombre",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Poivron",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Ail",
+     "q": 1,
+     "u": "gousse",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Huile d'olive",
+     "q": 4,
+     "u": "c. à soupe",
+     "k": "sauces"
+    },
+    {
+     "n": "Vinaigre de xérès",
+     "q": 2,
+     "u": "c. à soupe",
+     "k": "sauces"
+    }
+   ],
+   "st": [
+    "Coupez les légumes en morceaux.",
+    "Mixez-les avec l'ail, l'huile et le vinaigre, salez, poivrez.",
+    "Passez au chinois si vous le souhaitez et réservez 2 heures au frais."
+   ]
+  },
+  {
+   "id": "salade-d-avocat-et-crevettes",
+   "t": "Salade d'avocat et crevettes",
+   "c": "entree",
+   "s": 4,
+   "m": 15,
+   "i": [
+    {
+     "n": "Avocats",
+     "q": 2,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Crevettes cuites décortiquées",
+     "q": 200,
+     "u": "g",
+     "k": "poissons"
+    },
+    {
+     "n": "Citron",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Salade verte",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Huile d'olive",
+     "q": 2,
+     "u": "c. à soupe",
+     "k": "sauces"
+    }
+   ],
+   "st": [
+    "Coupez les avocats en dés et arrosez-les de citron.",
+    "Mélangez avec les crevettes et la salade.",
+    "Assaisonnez avec l'huile, du sel et du poivre."
+   ]
+  },
+  {
+   "id": "tzatziki-et-crudites",
+   "t": "Tzatziki et crudités",
+   "c": "entree",
+   "s": 4,
+   "m": 15,
+   "i": [
+    {
+     "n": "Yaourt grec",
+     "q": 400,
+     "u": "g",
+     "k": "laitiers"
+    },
+    {
+     "n": "Concombre",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Ail",
+     "q": 1,
+     "u": "gousse",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Menthe",
+     "q": 1,
+     "u": "botte",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Huile d'olive",
+     "q": 1,
+     "u": "c. à soupe",
+     "k": "sauces"
+    },
+    {
+     "n": "Carottes",
+     "q": 3,
+     "k": "fruits_legumes"
+    }
+   ],
+   "st": [
+    "Râpez le concombre et pressez-le pour retirer l'eau.",
+    "Mélangez-le au yaourt avec l'ail écrasé, la menthe et l'huile.",
+    "Servez avec des bâtonnets de carotte."
+   ]
+  },
+  {
+   "id": "salade-de-quinoa-et-legumes-grilles",
+   "t": "Salade de quinoa et légumes grillés",
+   "c": "entree",
+   "s": 4,
+   "m": 30,
+   "i": [
+    {
+     "n": "Quinoa",
+     "q": 200,
+     "u": "g",
+     "k": "riz"
+    },
+    {
+     "n": "Courgette",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Poivron",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Tomates cerises",
+     "q": 200,
+     "u": "g",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Huile d'olive",
+     "q": 3,
+     "u": "c. à soupe",
+     "k": "sauces"
+    },
+    {
+     "n": "Feta",
+     "q": 100,
+     "u": "g",
+     "k": "laitiers"
+    }
+   ],
+   "st": [
+    "Rincez et cuisez le quinoa 12 minutes dans l'eau bouillante.",
+    "Faites griller les légumes en morceaux à la poêle avec l'huile.",
+    "Mélangez avec le quinoa, émiettez la feta, salez et poivrez."
+   ]
+  },
+  {
+   "id": "soupe-poireaux-pommes-de-terre",
+   "t": "Soupe poireaux pommes de terre",
+   "c": "entree",
+   "s": 4,
+   "m": 35,
+   "i": [
+    {
+     "n": "Poireaux",
+     "q": 3,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Pommes de terre",
+     "q": 3,
+     "k": "riz"
+    },
+    {
+     "n": "Beurre",
+     "q": 20,
+     "u": "g",
+     "k": "laitiers"
+    },
+    {
+     "n": "Crème fraîche",
+     "q": 10,
+     "u": "cl",
+     "k": "laitiers"
+    }
+   ],
+   "st": [
+    "Faites suer les poireaux émincés dans le beurre.",
+    "Ajoutez les pommes de terre en dés et 1 litre d'eau, cuisez 25 minutes.",
+    "Mixez, ajoutez la crème, salez et poivrez."
+   ]
+  },
+  {
+   "id": "salade-de-betteraves-et-pommes",
+   "t": "Salade de betteraves et pommes",
+   "c": "entree",
+   "s": 4,
+   "m": 15,
+   "i": [
+    {
+     "n": "Betteraves cuites",
+     "q": 4,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Pommes",
+     "q": 2,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Noix",
+     "q": 40,
+     "u": "g",
+     "k": "snacks"
+    },
+    {
+     "n": "Huile d'olive",
+     "q": 2,
+     "u": "c. à soupe",
+     "k": "sauces"
+    },
+    {
+     "n": "Vinaigre de cidre",
+     "q": 1,
+     "u": "c. à soupe",
+     "k": "sauces"
+    },
+    {
+     "n": "Ciboulette",
+     "q": 1,
+     "u": "botte",
+     "k": "fruits_legumes"
+    }
+   ],
+   "st": [
+    "Coupez les betteraves et les pommes en dés.",
+    "Ajoutez les noix concassées et la ciboulette.",
+    "Assaisonnez d'huile, de vinaigre, de sel et de poivre."
+   ]
+  },
+  {
+   "id": "melon-et-jambon-cru",
+   "t": "Melon et jambon cru",
+   "c": "entree",
+   "s": 4,
+   "m": 10,
+   "i": [
+    {
+     "n": "Melon",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Jambon cru",
+     "q": 4,
+     "u": "tranches",
+     "k": "viandes",
+     "v": 1
+    }
+   ],
+   "st": [
+    "Coupez le melon en quartiers et retirez les pépins.",
+    "Enroulez une tranche de jambon cru sur chaque quartier.",
+    "Servez frais."
+   ]
+  },
+  {
+   "id": "veloute-de-champignons",
+   "t": "Velouté de champignons",
+   "c": "entree",
+   "s": 4,
+   "m": 30,
+   "i": [
+    {
+     "n": "Champignons de Paris",
+     "q": 500,
+     "u": "g",
+     "k": "snacks"
+    },
+    {
+     "n": "Oignon",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Bouillon de légumes sans gluten",
+     "q": 600,
+     "u": "ml",
+     "k": "sauces",
+     "v": 1
+    },
+    {
+     "n": "Crème fraîche",
+     "q": 15,
+     "u": "cl",
+     "k": "laitiers"
+    },
+    {
+     "n": "Beurre",
+     "q": 20,
+     "u": "g",
+     "k": "laitiers"
+    }
+   ],
+   "st": [
+    "Faites revenir l'oignon et les champignons émincés dans le beurre.",
+    "Ajoutez le bouillon et cuisez 15 minutes.",
+    "Mixez avec la crème, salez et poivrez."
+   ]
+  },
+  {
+   "id": "salade-de-vermicelles-de-riz-aux-crevettes",
+   "t": "Salade de vermicelles de riz aux crevettes",
+   "c": "entree",
+   "s": 4,
+   "m": 25,
+   "i": [
+    {
+     "n": "Vermicelles de riz",
+     "q": 150,
+     "u": "g",
+     "k": "pates",
+     "v": 1
+    },
+    {
+     "n": "Crevettes cuites décortiquées",
+     "q": 200,
+     "u": "g",
+     "k": "poissons"
+    },
+    {
+     "n": "Carottes",
+     "q": 2,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Concombre",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Menthe",
+     "q": 1,
+     "u": "botte",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Citron",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Tamari sans gluten",
+     "q": 2,
+     "u": "c. à soupe",
+     "k": "sauces",
+     "v": 1
+    }
+   ],
+   "st": [
+    "Faites tremper les vermicelles 5 minutes dans l'eau bouillante, égouttez.",
+    "Coupez les légumes en julienne.",
+    "Mélangez tout avec les crevettes, la menthe, le jus de citron et le tamari."
+   ]
+  },
+  {
+   "id": "ufs-cocotte-aux-epinards",
+   "t": "Œufs cocotte aux épinards",
+   "c": "entree",
+   "s": 4,
+   "m": 25,
+   "i": [
+    {
+     "n": "Œufs",
+     "q": 4,
+     "k": "laitiers"
+    },
+    {
+     "n": "Épinards",
+     "q": 300,
+     "u": "g",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Crème fraîche",
+     "q": 8,
+     "u": "cl",
+     "k": "laitiers"
+    },
+    {
+     "n": "Beurre",
+     "q": 10,
+     "u": "g",
+     "k": "laitiers"
+    },
+    {
+     "n": "Fromage râpé",
+     "q": 40,
+     "u": "g",
+     "k": "laitiers"
+    }
+   ],
+   "st": [
+    "Faites tomber les épinards au beurre, répartissez-les dans 4 ramequins.",
+    "Ajoutez la crème et cassez un œuf dans chacun.",
+    "Parsemez de fromage et cuisez 10 minutes à 180 °C."
+   ]
+  },
+  {
+   "id": "rillettes-de-thon-maison",
+   "t": "Rillettes de thon maison",
+   "c": "entree",
+   "s": 4,
+   "m": 10,
+   "i": [
+    {
+     "n": "Thon au naturel",
+     "q": 2,
+     "u": "boîtes",
+     "k": "poissons"
+    },
+    {
+     "n": "Fromage frais",
+     "q": 100,
+     "u": "g",
+     "k": "laitiers"
+    },
+    {
+     "n": "Citron",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Ciboulette",
+     "q": 1,
+     "u": "botte",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Carottes",
+     "q": 3,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Concombre",
+     "q": 1,
+     "k": "fruits_legumes"
+    }
+   ],
+   "st": [
+    "Égouttez le thon et écrasez-le avec le fromage frais.",
+    "Ajoutez le jus de citron, la ciboulette, sel et poivre.",
+    "Servez avec des bâtonnets de carotte et de concombre."
+   ]
+  },
+  {
+   "id": "poulet-roti-et-pommes-de-terre-au-four",
+   "t": "Poulet rôti et pommes de terre au four",
+   "c": "plat",
+   "s": 4,
+   "m": 80,
+   "i": [
+    {
+     "n": "Poulet entier",
+     "q": 1.5,
+     "u": "kg",
+     "k": "viandes"
+    },
+    {
+     "n": "Pommes de terre",
+     "q": 1,
+     "u": "kg",
+     "k": "riz"
+    },
+    {
+     "n": "Ail",
+     "q": 4,
+     "u": "gousses",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Thym",
+     "q": 1,
+     "u": "botte",
+     "k": "sauces"
+    },
+    {
+     "n": "Huile d'olive",
+     "q": 3,
+     "u": "c. à soupe",
+     "k": "sauces"
+    },
+    {
+     "n": "Citron",
+     "q": 1,
+     "k": "fruits_legumes"
+    }
+   ],
+   "st": [
+    "Préchauffez le four à 200 °C. Huilez, salez et poivrez le poulet, glissez le citron et le thym à l'intérieur.",
+    "Entourez-le de pommes de terre en quartiers et d'ail non épluché.",
+    "Enfournez 1 h 10 en arrosant de temps en temps."
+   ]
+  },
+  {
+   "id": "riz-cantonais-sans-gluten",
+   "t": "Riz cantonais sans gluten",
+   "c": "plat",
+   "s": 4,
+   "m": 25,
+   "i": [
+    {
+     "n": "Riz long",
+     "q": 250,
+     "u": "g",
+     "k": "riz"
+    },
+    {
+     "n": "Œufs",
+     "q": 3,
+     "k": "laitiers"
+    },
+    {
+     "n": "Petits pois",
+     "q": 150,
+     "u": "g",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Jambon blanc",
+     "q": 150,
+     "u": "g",
+     "k": "viandes",
+     "v": 1
+    },
+    {
+     "n": "Oignon",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Tamari sans gluten",
+     "q": 3,
+     "u": "c. à soupe",
+     "k": "sauces",
+     "v": 1
+    },
+    {
+     "n": "Huile d'olive",
+     "q": 2,
+     "u": "c. à soupe",
+     "k": "sauces"
+    }
+   ],
+   "st": [
+    "Cuisez le riz et laissez-le refroidir.",
+    "Faites sauter l'oignon, le jambon en dés et les petits pois. Ajoutez les œufs battus.",
+    "Incorporez le riz et le tamari, faites sauter 5 minutes."
+   ]
+  },
+  {
+   "id": "gratin-dauphinois",
+   "t": "Gratin dauphinois",
+   "c": "plat",
+   "s": 6,
+   "m": 80,
+   "i": [
+    {
+     "n": "Pommes de terre",
+     "q": 1,
+     "u": "kg",
+     "k": "riz"
+    },
+    {
+     "n": "Crème fraîche",
+     "q": 40,
+     "u": "cl",
+     "k": "laitiers"
+    },
+    {
+     "n": "Lait",
+     "q": 25,
+     "u": "cl",
+     "k": "laitiers"
+    },
+    {
+     "n": "Ail",
+     "q": 1,
+     "u": "gousse",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Beurre",
+     "q": 20,
+     "u": "g",
+     "k": "laitiers"
+    },
+    {
+     "n": "Noix de muscade",
+     "q": 1,
+     "u": "pincée",
+     "k": "sauces"
+    }
+   ],
+   "st": [
+    "Frottez un plat à l'ail et beurrez-le. Disposez les pommes de terre en fines rondelles.",
+    "Mélangez crème, lait, muscade, sel et poivre, versez sur les pommes de terre.",
+    "Cuisez 1 heure à 160 °C."
+   ]
+  },
+  {
+   "id": "saumon-en-papillote-et-riz",
+   "t": "Saumon en papillote et riz",
+   "c": "plat",
+   "s": 4,
+   "m": 35,
+   "i": [
+    {
+     "n": "Pavés de saumon",
+     "q": 4,
+     "k": "poissons"
+    },
+    {
+     "n": "Citron",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Riz basmati",
+     "q": 300,
+     "u": "g",
+     "k": "riz"
+    },
+    {
+     "n": "Aneth",
+     "q": 1,
+     "u": "botte",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Courgettes",
+     "q": 2,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Huile d'olive",
+     "q": 2,
+     "u": "c. à soupe",
+     "k": "sauces"
+    }
+   ],
+   "st": [
+    "Déposez chaque pavé sur une feuille de papier cuisson avec des rondelles de courgette, citron, aneth et huile.",
+    "Fermez les papillotes et cuisez 20 minutes à 180 °C.",
+    "Servez avec le riz cuit à l'eau."
+   ]
+  },
+  {
+   "id": "chili-con-carne",
+   "t": "Chili con carne",
+   "c": "plat",
+   "s": 4,
+   "m": 50,
+   "i": [
+    {
+     "n": "Bœuf haché pur",
+     "q": 500,
+     "u": "g",
+     "k": "viandes"
+    },
+    {
+     "n": "Haricots rouges",
+     "q": 400,
+     "u": "g",
+     "k": "riz"
+    },
+    {
+     "n": "Tomates concassées",
+     "q": 400,
+     "u": "g",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Oignon",
+     "q": 2,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Poivron",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Paprika",
+     "q": 2,
+     "u": "c. à café",
+     "k": "sauces"
+    },
+    {
+     "n": "Cumin",
+     "q": 1,
+     "u": "c. à café",
+     "k": "sauces"
+    },
+    {
+     "n": "Concentré de tomate",
+     "q": 2,
+     "u": "c. à soupe",
+     "k": "sauces",
+     "v": 1
+    },
+    {
+     "n": "Riz long",
+     "q": 250,
+     "u": "g",
+     "k": "riz"
+    }
+   ],
+   "st": [
+    "Faites revenir les oignons et le poivron, ajoutez la viande et dorez-la.",
+    "Ajoutez tomates, concentré, haricots, paprika et cumin. Mijotez 30 minutes.",
+    "Servez sur du riz."
+   ]
+  },
+  {
+   "id": "curry-de-legumes-au-lait-de-coco",
+   "t": "Curry de légumes au lait de coco",
+   "c": "plat",
+   "s": 4,
+   "m": 40,
+   "i": [
+    {
+     "n": "Lait de coco",
+     "q": 400,
+     "u": "ml",
+     "k": "laitiers"
+    },
+    {
+     "n": "Pois chiches cuits",
+     "q": 400,
+     "u": "g",
+     "k": "riz"
+    },
+    {
+     "n": "Courgettes",
+     "q": 2,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Carottes",
+     "q": 3,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Oignon",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Pâte de curry",
+     "q": 2,
+     "u": "c. à soupe",
+     "k": "sauces",
+     "v": 1
+    },
+    {
+     "n": "Riz basmati",
+     "q": 250,
+     "u": "g",
+     "k": "riz"
+    },
+    {
+     "n": "Coriandre",
+     "q": 1,
+     "u": "botte",
+     "k": "fruits_legumes"
+    }
+   ],
+   "st": [
+    "Faites revenir l'oignon et la pâte de curry.",
+    "Ajoutez les légumes, les pois chiches et le lait de coco, mijotez 25 minutes.",
+    "Servez avec le riz et la coriandre."
+   ]
+  },
+  {
+   "id": "tortilla-espagnole",
+   "t": "Tortilla espagnole",
+   "c": "plat",
+   "s": 4,
+   "m": 45,
+   "i": [
+    {
+     "n": "Œufs",
+     "q": 8,
+     "k": "laitiers"
+    },
+    {
+     "n": "Pommes de terre",
+     "q": 600,
+     "u": "g",
+     "k": "riz"
+    },
+    {
+     "n": "Oignon",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Huile d'olive",
+     "q": 6,
+     "u": "c. à soupe",
+     "k": "sauces"
+    }
+   ],
+   "st": [
+    "Faites cuire doucement les pommes de terre et l'oignon en lamelles dans l'huile.",
+    "Mélangez-les aux œufs battus, salez.",
+    "Cuisez à la poêle 5 minutes de chaque côté."
+   ]
+  },
+  {
+   "id": "nouilles-de-riz-sautees-aux-crevettes",
+   "t": "Nouilles de riz sautées aux crevettes",
+   "c": "plat",
+   "s": 4,
+   "m": 25,
+   "i": [
+    {
+     "n": "Nouilles de riz",
+     "q": 250,
+     "u": "g",
+     "k": "pates",
+     "v": 1
+    },
+    {
+     "n": "Crevettes crues décortiquées",
+     "q": 300,
+     "u": "g",
+     "k": "poissons"
+    },
+    {
+     "n": "Carottes",
+     "q": 2,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Poivron",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Tamari sans gluten",
+     "q": 3,
+     "u": "c. à soupe",
+     "k": "sauces",
+     "v": 1
+    },
+    {
+     "n": "Gingembre",
+     "q": 1,
+     "u": "morceau",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Huile d'olive",
+     "q": 2,
+     "u": "c. à soupe",
+     "k": "sauces"
+    }
+   ],
+   "st": [
+    "Trempez les nouilles selon le paquet, égouttez.",
+    "Sautez les légumes en lamelles et le gingembre, puis les crevettes.",
+    "Ajoutez les nouilles et le tamari, sautez 3 minutes."
+   ]
+  },
+  {
+   "id": "pot-au-feu",
+   "t": "Pot-au-feu",
+   "c": "plat",
+   "s": 6,
+   "m": 180,
+   "i": [
+    {
+     "n": "Bœuf à pot-au-feu",
+     "q": 1,
+     "u": "kg",
+     "k": "viandes"
+    },
+    {
+     "n": "Carottes",
+     "q": 6,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Navets",
+     "q": 4,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Poireaux",
+     "q": 3,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Pommes de terre",
+     "q": 6,
+     "k": "riz"
+    },
+    {
+     "n": "Oignon",
+     "q": 2,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Clous de girofle",
+     "q": 3,
+     "k": "sauces"
+    },
+    {
+     "n": "Moutarde",
+     "q": 1,
+     "u": "pot",
+     "k": "sauces",
+     "v": 1
+    }
+   ],
+   "st": [
+    "Couvrez la viande d'eau froide, portez à ébullition, écumez. Ajoutez l'oignon piqué de clous de girofle.",
+    "Cuisez 2 h 30 à feu doux puis ajoutez les légumes pelés, 40 minutes.",
+    "Servez avec gros sel et moutarde."
+   ]
+  },
+  {
+   "id": "blanquette-de-veau-sans-farine",
+   "t": "Blanquette de veau sans farine",
+   "c": "plat",
+   "s": 6,
+   "m": 120,
+   "i": [
+    {
+     "n": "Veau à blanquette",
+     "q": 1,
+     "u": "kg",
+     "k": "viandes"
+    },
+    {
+     "n": "Carottes",
+     "q": 3,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Oignon",
+     "q": 2,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Champignons de Paris",
+     "q": 250,
+     "u": "g",
+     "k": "snacks"
+    },
+    {
+     "n": "Crème fraîche",
+     "q": 20,
+     "u": "cl",
+     "k": "laitiers"
+    },
+    {
+     "n": "Jaunes d'œufs",
+     "q": 2,
+     "k": "laitiers"
+    },
+    {
+     "n": "Citron",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Riz basmati",
+     "q": 300,
+     "u": "g",
+     "k": "riz"
+    }
+   ],
+   "st": [
+    "Couvrez le veau, les carottes et l'oignon d'eau, cuisez 1 h 30. Ajoutez les champignons.",
+    "Hors du feu, liez avec la crème, les jaunes d'œufs et le jus de citron, sans bouillir.",
+    "Servez avec du riz."
+   ]
+  },
+  {
+   "id": "ratatouille-et-uf-au-plat",
+   "t": "Ratatouille et œuf au plat",
+   "c": "plat",
+   "s": 4,
+   "m": 60,
+   "i": [
+    {
+     "n": "Aubergines",
+     "q": 2,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Courgettes",
+     "q": 2,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Poivrons",
+     "q": 2,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Tomates",
+     "q": 6,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Oignon",
+     "q": 2,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Ail",
+     "q": 2,
+     "u": "gousses",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Huile d'olive",
+     "q": 4,
+     "u": "c. à soupe",
+     "k": "sauces"
+    },
+    {
+     "n": "Thym",
+     "q": 1,
+     "u": "botte",
+     "k": "sauces"
+    },
+    {
+     "n": "Œufs",
+     "q": 4,
+     "k": "laitiers"
+    }
+   ],
+   "st": [
+    "Faites revenir les légumes en dés séparément dans l'huile.",
+    "Réunissez-les avec l'ail et le thym, mijotez 30 minutes.",
+    "Servez avec un œuf au plat."
+   ]
+  },
+  {
+   "id": "cabillaud-au-four-fenouil-et-pommes-de-terre",
+   "t": "Cabillaud au four, fenouil et pommes de terre",
+   "c": "plat",
+   "s": 4,
+   "m": 45,
+   "i": [
+    {
+     "n": "Cabillaud",
+     "q": 600,
+     "u": "g",
+     "k": "poissons"
+    },
+    {
+     "n": "Fenouil",
+     "q": 2,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Pommes de terre",
+     "q": 600,
+     "u": "g",
+     "k": "riz"
+    },
+    {
+     "n": "Citron",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Huile d'olive",
+     "q": 3,
+     "u": "c. à soupe",
+     "k": "sauces"
+    }
+   ],
+   "st": [
+    "Cuisez fenouil et pommes de terre en morceaux 25 minutes à 200 °C avec l'huile.",
+    "Ajoutez le cabillaud, le citron et cuisez 12 minutes.",
+    "Salez, poivrez, servez."
+   ]
+  },
+  {
+   "id": "boulettes-de-buf-a-la-tomate",
+   "t": "Boulettes de bœuf à la tomate",
+   "c": "plat",
+   "s": 4,
+   "m": 40,
+   "i": [
+    {
+     "n": "Bœuf haché pur",
+     "q": 600,
+     "u": "g",
+     "k": "viandes"
+    },
+    {
+     "n": "Œuf",
+     "q": 1,
+     "k": "laitiers"
+    },
+    {
+     "n": "Oignon",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Persil",
+     "q": 1,
+     "u": "botte",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Coulis de tomate",
+     "q": 500,
+     "u": "g",
+     "k": "sauces",
+     "v": 1
+    },
+    {
+     "n": "Huile d'olive",
+     "q": 2,
+     "u": "c. à soupe",
+     "k": "sauces"
+    },
+    {
+     "n": "Riz long",
+     "q": 250,
+     "u": "g",
+     "k": "riz"
+    }
+   ],
+   "st": [
+    "Mélangez la viande, l'œuf, l'oignon haché et le persil. Formez des boulettes bien serrées.",
+    "Dorez-les dans l'huile, ajoutez le coulis et mijotez 20 minutes.",
+    "Servez avec du riz."
+   ]
+  },
+  {
+   "id": "risotto-aux-champignons",
+   "t": "Risotto aux champignons",
+   "c": "plat",
+   "s": 4,
+   "m": 40,
+   "i": [
+    {
+     "n": "Riz arborio",
+     "q": 300,
+     "u": "g",
+     "k": "riz"
+    },
+    {
+     "n": "Champignons de Paris",
+     "q": 300,
+     "u": "g",
+     "k": "snacks"
+    },
+    {
+     "n": "Oignon",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Vin blanc",
+     "q": 10,
+     "u": "cl",
+     "k": "boissons"
+    },
+    {
+     "n": "Bouillon de légumes sans gluten",
+     "q": 1,
+     "u": "L",
+     "k": "sauces",
+     "v": 1
+    },
+    {
+     "n": "Parmesan",
+     "q": 50,
+     "u": "g",
+     "k": "laitiers"
+    },
+    {
+     "n": "Beurre",
+     "q": 30,
+     "u": "g",
+     "k": "laitiers"
+    }
+   ],
+   "st": [
+    "Faites revenir l'oignon et les champignons dans la moitié du beurre.",
+    "Ajoutez le riz, nacrez-le, déglacez au vin blanc.",
+    "Versez le bouillon louche par louche pendant 18 minutes, finissez avec le parmesan et le reste du beurre."
+   ]
+  },
+  {
+   "id": "polenta-cremeuse-aux-champignons",
+   "t": "Polenta crémeuse aux champignons",
+   "c": "plat",
+   "s": 4,
+   "m": 30,
+   "i": [
+    {
+     "n": "Polenta",
+     "q": 200,
+     "u": "g",
+     "k": "riz",
+     "v": 1
+    },
+    {
+     "n": "Champignons de Paris",
+     "q": 400,
+     "u": "g",
+     "k": "snacks"
+    },
+    {
+     "n": "Ail",
+     "q": 1,
+     "u": "gousse",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Parmesan",
+     "q": 40,
+     "u": "g",
+     "k": "laitiers"
+    },
+    {
+     "n": "Beurre",
+     "q": 30,
+     "u": "g",
+     "k": "laitiers"
+    },
+    {
+     "n": "Persil",
+     "q": 1,
+     "u": "botte",
+     "k": "fruits_legumes"
+    }
+   ],
+   "st": [
+    "Cuisez la polenta dans 1 litre d'eau salée en remuant, puis ajoutez le parmesan et la moitié du beurre.",
+    "Faites sauter les champignons avec l'ail dans le reste du beurre.",
+    "Servez sur la polenta avec le persil."
+   ]
+  },
+  {
+   "id": "tajine-de-poulet-aux-olives",
+   "t": "Tajine de poulet aux olives",
+   "c": "plat",
+   "s": 4,
+   "m": 70,
+   "i": [
+    {
+     "n": "Cuisses de poulet",
+     "q": 8,
+     "k": "viandes"
+    },
+    {
+     "n": "Oignons",
+     "q": 2,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Olives vertes",
+     "q": 150,
+     "u": "g",
+     "k": "sauces"
+    },
+    {
+     "n": "Citrons confits",
+     "q": 2,
+     "k": "sauces"
+    },
+    {
+     "n": "Gingembre",
+     "q": 1,
+     "u": "c. à café",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Safran",
+     "q": 1,
+     "u": "pincée",
+     "k": "sauces"
+    },
+    {
+     "n": "Coriandre",
+     "q": 1,
+     "u": "botte",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Huile d'olive",
+     "q": 2,
+     "u": "c. à soupe",
+     "k": "sauces"
+    },
+    {
+     "n": "Riz long",
+     "q": 250,
+     "u": "g",
+     "k": "riz"
+    }
+   ],
+   "st": [
+    "Dorez le poulet dans l'huile, ajoutez les oignons, le gingembre, le safran et un verre d'eau.",
+    "Mijotez 40 minutes, ajoutez olives et citrons confits 15 minutes.",
+    "Parsemez de coriandre et servez avec du riz."
+   ]
+  },
+  {
+   "id": "gratin-de-courgettes-au-chevre",
+   "t": "Gratin de courgettes au chèvre",
+   "c": "plat",
+   "s": 4,
+   "m": 50,
+   "i": [
+    {
+     "n": "Courgettes",
+     "q": 1,
+     "u": "kg",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Bûche de chèvre",
+     "q": 150,
+     "u": "g",
+     "k": "laitiers"
+    },
+    {
+     "n": "Œufs",
+     "q": 3,
+     "k": "laitiers"
+    },
+    {
+     "n": "Crème fraîche",
+     "q": 20,
+     "u": "cl",
+     "k": "laitiers"
+    },
+    {
+     "n": "Huile d'olive",
+     "q": 1,
+     "u": "c. à soupe",
+     "k": "sauces"
+    }
+   ],
+   "st": [
+    "Faites revenir les courgettes en rondelles 10 minutes dans l'huile.",
+    "Disposez-les dans un plat avec le chèvre en morceaux.",
+    "Versez les œufs battus avec la crème, cuisez 30 minutes à 180 °C."
+   ]
+  },
+  {
+   "id": "dahl-de-lentilles-corail",
+   "t": "Dahl de lentilles corail",
+   "c": "plat",
+   "s": 4,
+   "m": 35,
+   "i": [
+    {
+     "n": "Lentilles corail",
+     "q": 250,
+     "u": "g",
+     "k": "riz"
+    },
+    {
+     "n": "Lait de coco",
+     "q": 200,
+     "u": "ml",
+     "k": "laitiers"
+    },
+    {
+     "n": "Oignon",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Ail",
+     "q": 2,
+     "u": "gousses",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Gingembre",
+     "q": 1,
+     "u": "morceau",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Curcuma",
+     "q": 1,
+     "u": "c. à café",
+     "k": "sauces"
+    },
+    {
+     "n": "Cumin",
+     "q": 1,
+     "u": "c. à café",
+     "k": "sauces"
+    },
+    {
+     "n": "Tomates concassées",
+     "q": 400,
+     "u": "g",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Riz basmati",
+     "q": 250,
+     "u": "g",
+     "k": "riz"
+    }
+   ],
+   "st": [
+    "Faites revenir l'oignon, l'ail, le gingembre et les épices.",
+    "Ajoutez lentilles, tomates, lait de coco et 40 cl d'eau, cuisez 20 minutes.",
+    "Servez avec du riz."
+   ]
+  },
+  {
+   "id": "magret-de-canard-et-pommes-de-terre-sautees",
+   "t": "Magret de canard et pommes de terre sautées",
+   "c": "plat",
+   "s": 4,
+   "m": 40,
+   "i": [
+    {
+     "n": "Magrets de canard",
+     "q": 2,
+     "k": "viandes"
+    },
+    {
+     "n": "Pommes de terre",
+     "q": 800,
+     "u": "g",
+     "k": "riz"
+    },
+    {
+     "n": "Ail",
+     "q": 2,
+     "u": "gousses",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Persil",
+     "q": 1,
+     "u": "botte",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Miel",
+     "q": 1,
+     "u": "c. à soupe",
+     "k": "chocolat"
+    }
+   ],
+   "st": [
+    "Quadrillez la peau des magrets, cuisez-les côté peau 8 minutes puis 4 minutes de l'autre côté. Laissez reposer.",
+    "Faites sauter les pommes de terre dans la graisse de canard avec ail et persil.",
+    "Nappez les magrets de miel avant de trancher."
+   ]
+  },
+  {
+   "id": "galettes-de-sarrasin-jambon-fromage",
+   "t": "Galettes de sarrasin jambon fromage",
+   "c": "plat",
+   "s": 4,
+   "m": 40,
+   "i": [
+    {
+     "n": "Farine de sarrasin",
+     "q": 250,
+     "u": "g",
+     "k": "farines",
+     "v": 1
+    },
+    {
+     "n": "Œuf",
+     "q": 1,
+     "k": "laitiers"
+    },
+    {
+     "n": "Jambon blanc",
+     "q": 4,
+     "u": "tranches",
+     "k": "viandes",
+     "v": 1
+    },
+    {
+     "n": "Fromage râpé",
+     "q": 100,
+     "u": "g",
+     "k": "laitiers"
+    },
+    {
+     "n": "Beurre",
+     "q": 20,
+     "u": "g",
+     "k": "laitiers"
+    }
+   ],
+   "st": [
+    "Mélangez la farine, l'œuf, une pincée de sel et 50 cl d'eau, laissez reposer 1 heure.",
+    "Cuisez les galettes à la poêle beurrée.",
+    "Garnissez de jambon et de fromage, repliez et servez chaud."
+   ]
+  },
+  {
+   "id": "saucisses-aux-lentilles",
+   "t": "Saucisses aux lentilles",
+   "c": "plat",
+   "s": 4,
+   "m": 45,
+   "i": [
+    {
+     "n": "Saucisses de Toulouse",
+     "q": 4,
+     "k": "viandes",
+     "v": 1
+    },
+    {
+     "n": "Lentilles vertes",
+     "q": 300,
+     "u": "g",
+     "k": "riz"
+    },
+    {
+     "n": "Carottes",
+     "q": 2,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Oignon",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Laurier",
+     "q": 2,
+     "u": "feuilles",
+     "k": "sauces"
+    },
+    {
+     "n": "Thym",
+     "q": 1,
+     "u": "branche",
+     "k": "sauces"
+    }
+   ],
+   "st": [
+    "Cuisez les lentilles avec la carotte, l'oignon, le laurier et le thym 25 minutes.",
+    "Faites dorer les saucisses à la poêle 15 minutes.",
+    "Servez sur les lentilles."
+   ]
+  },
+  {
+   "id": "moules-marinieres-et-pommes-de-terre",
+   "t": "Moules marinières et pommes de terre",
+   "c": "plat",
+   "s": 4,
+   "m": 35,
+   "i": [
+    {
+     "n": "Moules",
+     "q": 2,
+     "u": "kg",
+     "k": "poissons"
+    },
+    {
+     "n": "Échalotes",
+     "q": 3,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Vin blanc",
+     "q": 20,
+     "u": "cl",
+     "k": "boissons"
+    },
+    {
+     "n": "Persil",
+     "q": 1,
+     "u": "botte",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Beurre",
+     "q": 30,
+     "u": "g",
+     "k": "laitiers"
+    },
+    {
+     "n": "Pommes de terre",
+     "q": 800,
+     "u": "g",
+     "k": "riz"
+    }
+   ],
+   "st": [
+    "Cuisez les pommes de terre à l'eau. Faites suer les échalotes dans le beurre.",
+    "Ajoutez les moules lavées et le vin blanc, couvrez et cuisez 6 minutes.",
+    "Parsemez de persil."
+   ]
+  },
+  {
+   "id": "tartiflette",
+   "t": "Tartiflette",
+   "c": "plat",
+   "s": 4,
+   "m": 60,
+   "i": [
+    {
+     "n": "Pommes de terre",
+     "q": 1,
+     "u": "kg",
+     "k": "riz"
+    },
+    {
+     "n": "Reblochon",
+     "q": 1,
+     "k": "laitiers"
+    },
+    {
+     "n": "Lardons",
+     "q": 200,
+     "u": "g",
+     "k": "viandes",
+     "v": 1
+    },
+    {
+     "n": "Oignons",
+     "q": 2,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Vin blanc",
+     "q": 10,
+     "u": "cl",
+     "k": "boissons"
+    },
+    {
+     "n": "Crème fraîche",
+     "q": 10,
+     "u": "cl",
+     "k": "laitiers"
+    }
+   ],
+   "st": [
+    "Cuisez les pommes de terre en rondelles. Faites revenir lardons et oignons, déglacez au vin blanc.",
+    "Mélangez avec les pommes de terre et la crème dans un plat, recouvrez de reblochon coupé en deux.",
+    "Enfournez 25 minutes à 200 °C."
+   ]
+  },
+  {
+   "id": "gratin-de-chou-fleur-a-la-creme",
+   "t": "Gratin de chou-fleur à la crème",
+   "c": "plat",
+   "s": 4,
+   "m": 45,
+   "i": [
+    {
+     "n": "Chou-fleur",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Crème fraîche",
+     "q": 25,
+     "u": "cl",
+     "k": "laitiers"
+    },
+    {
+     "n": "Gruyère râpé",
+     "q": 100,
+     "u": "g",
+     "k": "laitiers"
+    },
+    {
+     "n": "Noix de muscade",
+     "q": 1,
+     "u": "pincée",
+     "k": "sauces"
+    },
+    {
+     "n": "Œuf",
+     "q": 1,
+     "k": "laitiers"
+    }
+   ],
+   "st": [
+    "Cuisez le chou-fleur en bouquets 10 minutes à l'eau, égouttez.",
+    "Mélangez crème, œuf, muscade, sel et poivre.",
+    "Versez sur le chou-fleur, parsemez de gruyère, gratinez 25 minutes à 190 °C."
+   ]
+  },
+  {
+   "id": "steak-haricots-verts-et-puree",
+   "t": "Steak, haricots verts et purée",
+   "c": "plat",
+   "s": 4,
+   "m": 40,
+   "i": [
+    {
+     "n": "Pavés de bœuf",
+     "q": 4,
+     "k": "viandes"
+    },
+    {
+     "n": "Haricots verts",
+     "q": 600,
+     "u": "g",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Pommes de terre",
+     "q": 800,
+     "u": "g",
+     "k": "riz"
+    },
+    {
+     "n": "Lait",
+     "q": 10,
+     "u": "cl",
+     "k": "laitiers"
+    },
+    {
+     "n": "Beurre",
+     "q": 40,
+     "u": "g",
+     "k": "laitiers"
+    },
+    {
+     "n": "Échalote",
+     "q": 1,
+     "k": "fruits_legumes"
+    }
+   ],
+   "st": [
+    "Cuisez les pommes de terre, écrasez-les avec le lait chaud et la moitié du beurre.",
+    "Cuisez les haricots verts 8 minutes à l'eau.",
+    "Saisissez les pavés à la poêle, servez avec l'échalote revenue au beurre."
+   ]
+  },
+  {
+   "id": "poke-bowl-au-saumon",
+   "t": "Poke bowl au saumon",
+   "c": "plat",
+   "s": 4,
+   "m": 30,
+   "i": [
+    {
+     "n": "Riz à sushi",
+     "q": 250,
+     "u": "g",
+     "k": "riz"
+    },
+    {
+     "n": "Saumon frais",
+     "q": 300,
+     "u": "g",
+     "k": "poissons"
+    },
+    {
+     "n": "Avocats",
+     "q": 2,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Concombre",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Edamame",
+     "q": 150,
+     "u": "g",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Tamari sans gluten",
+     "q": 3,
+     "u": "c. à soupe",
+     "k": "sauces",
+     "v": 1
+    },
+    {
+     "n": "Vinaigre de riz",
+     "q": 2,
+     "u": "c. à soupe",
+     "k": "sauces",
+     "v": 1
+    }
+   ],
+   "st": [
+    "Cuisez le riz et assaisonnez-le de vinaigre.",
+    "Coupez le saumon cru en dés et marinez-le dans le tamari.",
+    "Dressez dans des bols avec riz, saumon, avocat, concombre et edamame."
+   ]
+  },
+  {
+   "id": "mousse-au-chocolat",
+   "t": "Mousse au chocolat",
+   "c": "dessert",
+   "s": 6,
+   "m": 20,
+   "i": [
+    {
+     "n": "Chocolat noir",
+     "q": 200,
+     "u": "g",
+     "k": "chocolat",
+     "v": 1
+    },
+    {
+     "n": "Œufs",
+     "q": 6,
+     "k": "laitiers"
+    }
+   ],
+   "st": [
+    "Faites fondre le chocolat au bain-marie, hors du feu ajoutez les jaunes un à un.",
+    "Montez les blancs en neige ferme avec une pincée de sel.",
+    "Incorporez-les délicatement, réservez 4 heures au frais."
+   ]
+  },
+  {
+   "id": "creme-brulee",
+   "t": "Crème brûlée",
+   "c": "dessert",
+   "s": 6,
+   "m": 60,
+   "i": [
+    {
+     "n": "Crème liquide",
+     "q": 50,
+     "u": "cl",
+     "k": "laitiers"
+    },
+    {
+     "n": "Jaunes d'œufs",
+     "q": 6,
+     "k": "laitiers"
+    },
+    {
+     "n": "Sucre",
+     "q": 80,
+     "u": "g",
+     "k": "farines"
+    },
+    {
+     "n": "Vanille en gousse",
+     "q": 1,
+     "k": "farines"
+    },
+    {
+     "n": "Cassonade",
+     "q": 4,
+     "u": "c. à soupe",
+     "k": "farines"
+    }
+   ],
+   "st": [
+    "Chauffez la crème avec la vanille. Fouettez les jaunes et le sucre, versez la crème dessus.",
+    "Répartissez dans des ramequins, cuisez 40 minutes à 100 °C, refroidissez.",
+    "Saupoudrez de cassonade et caramélisez au chalumeau."
+   ]
+  },
+  {
+   "id": "riz-au-lait",
+   "t": "Riz au lait",
+   "c": "dessert",
+   "s": 6,
+   "m": 45,
+   "i": [
+    {
+     "n": "Riz rond",
+     "q": 200,
+     "u": "g",
+     "k": "riz"
+    },
+    {
+     "n": "Lait",
+     "q": 1,
+     "u": "L",
+     "k": "laitiers"
+    },
+    {
+     "n": "Sucre",
+     "q": 80,
+     "u": "g",
+     "k": "farines"
+    },
+    {
+     "n": "Vanille en gousse",
+     "q": 1,
+     "k": "farines"
+    },
+    {
+     "n": "Beurre",
+     "q": 10,
+     "u": "g",
+     "k": "laitiers"
+    }
+   ],
+   "st": [
+    "Faites bouillir le lait avec la vanille, ajoutez le riz.",
+    "Cuisez à feu doux 35 minutes en remuant.",
+    "Ajoutez sucre et beurre. Servez tiède ou froid."
+   ]
+  },
+  {
+   "id": "panna-cotta-aux-fruits-rouges",
+   "t": "Panna cotta aux fruits rouges",
+   "c": "dessert",
+   "s": 6,
+   "m": 20,
+   "i": [
+    {
+     "n": "Crème liquide",
+     "q": 50,
+     "u": "cl",
+     "k": "laitiers"
+    },
+    {
+     "n": "Lait",
+     "q": 15,
+     "u": "cl",
+     "k": "laitiers"
+    },
+    {
+     "n": "Gélatine en feuilles",
+     "q": 3,
+     "k": "farines",
+     "v": 1
+    },
+    {
+     "n": "Sucre",
+     "q": 60,
+     "u": "g",
+     "k": "farines"
+    },
+    {
+     "n": "Fruits rouges",
+     "q": 250,
+     "u": "g",
+     "k": "fruits_legumes"
+    }
+   ],
+   "st": [
+    "Faites ramollir la gélatine dans l'eau froide.",
+    "Chauffez crème, lait et sucre, ajoutez la gélatine essorée.",
+    "Versez dans des verrines, réfrigérez 4 heures. Servez avec les fruits rouges."
+   ]
+  },
+  {
+   "id": "gateau-moelleux-a-la-poudre-d-amande",
+   "t": "Gâteau moelleux à la poudre d'amande",
+   "c": "dessert",
+   "s": 8,
+   "m": 45,
+   "i": [
+    {
+     "n": "Poudre d'amande",
+     "q": 200,
+     "u": "g",
+     "k": "farines"
+    },
+    {
+     "n": "Sucre",
+     "q": 150,
+     "u": "g",
+     "k": "farines"
+    },
+    {
+     "n": "Œufs",
+     "q": 4,
+     "k": "laitiers"
+    },
+    {
+     "n": "Beurre",
+     "q": 100,
+     "u": "g",
+     "k": "laitiers"
+    },
+    {
+     "n": "Citron",
+     "q": 1,
+     "k": "fruits_legumes"
+    }
+   ],
+   "st": [
+    "Fouettez les œufs et le sucre, ajoutez le beurre fondu, la poudre d'amande et le zeste de citron.",
+    "Versez dans un moule beurré.",
+    "Cuisez 30 minutes à 170 °C."
+   ]
+  },
+  {
+   "id": "fondant-au-chocolat",
+   "t": "Fondant au chocolat",
+   "c": "dessert",
+   "s": 6,
+   "m": 30,
+   "i": [
+    {
+     "n": "Chocolat noir",
+     "q": 200,
+     "u": "g",
+     "k": "chocolat",
+     "v": 1
+    },
+    {
+     "n": "Beurre",
+     "q": 100,
+     "u": "g",
+     "k": "laitiers"
+    },
+    {
+     "n": "Sucre",
+     "q": 100,
+     "u": "g",
+     "k": "farines"
+    },
+    {
+     "n": "Œufs",
+     "q": 4,
+     "k": "laitiers"
+    },
+    {
+     "n": "Poudre d'amande",
+     "q": 40,
+     "u": "g",
+     "k": "farines"
+    }
+   ],
+   "st": [
+    "Faites fondre le chocolat et le beurre. Ajoutez le sucre, les œufs puis la poudre d'amande.",
+    "Versez dans un moule beurré.",
+    "Cuisez 20 minutes à 180 °C : le centre doit rester coulant."
+   ]
+  },
+  {
+   "id": "salade-de-fruits-frais",
+   "t": "Salade de fruits frais",
+   "c": "dessert",
+   "s": 6,
+   "m": 20,
+   "i": [
+    {
+     "n": "Oranges",
+     "q": 3,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Kiwis",
+     "q": 3,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Fraises",
+     "q": 250,
+     "u": "g",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Pommes",
+     "q": 2,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Citron",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Menthe",
+     "q": 1,
+     "u": "botte",
+     "k": "fruits_legumes"
+    }
+   ],
+   "st": [
+    "Épluchez et coupez les fruits en morceaux.",
+    "Arrosez de jus de citron pour éviter qu'ils noircissent.",
+    "Parsemez de menthe et servez frais."
+   ]
+  },
+  {
+   "id": "pommes-au-four",
+   "t": "Pommes au four",
+   "c": "dessert",
+   "s": 4,
+   "m": 40,
+   "i": [
+    {
+     "n": "Pommes",
+     "q": 4,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Beurre",
+     "q": 40,
+     "u": "g",
+     "k": "laitiers"
+    },
+    {
+     "n": "Cannelle",
+     "q": 1,
+     "u": "c. à café",
+     "k": "sauces"
+    },
+    {
+     "n": "Miel",
+     "q": 2,
+     "u": "c. à soupe",
+     "k": "chocolat"
+    },
+    {
+     "n": "Noix",
+     "q": 30,
+     "u": "g",
+     "k": "snacks"
+    }
+   ],
+   "st": [
+    "Évidez les pommes sans les percer.",
+    "Remplissez avec beurre, miel, cannelle et noix concassées.",
+    "Cuisez 30 minutes à 180 °C."
+   ]
+  },
+  {
+   "id": "clafoutis-aux-cerises",
+   "t": "Clafoutis aux cerises",
+   "c": "dessert",
+   "s": 6,
+   "m": 50,
+   "i": [
+    {
+     "n": "Cerises",
+     "q": 500,
+     "u": "g",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Œufs",
+     "q": 3,
+     "k": "laitiers"
+    },
+    {
+     "n": "Lait",
+     "q": 25,
+     "u": "cl",
+     "k": "laitiers"
+    },
+    {
+     "n": "Farine de riz",
+     "q": 80,
+     "u": "g",
+     "k": "farines",
+     "v": 1
+    },
+    {
+     "n": "Sucre",
+     "q": 80,
+     "u": "g",
+     "k": "farines"
+    }
+   ],
+   "st": [
+    "Battez les œufs avec le sucre, ajoutez la farine de riz puis le lait.",
+    "Disposez les cerises dans un plat beurré et versez l'appareil.",
+    "Cuisez 35 minutes à 180 °C."
+   ]
+  },
+  {
+   "id": "meringues",
+   "t": "Meringues",
+   "c": "dessert",
+   "s": 8,
+   "m": 90,
+   "i": [
+    {
+     "n": "Blancs d'œufs",
+     "q": 4,
+     "k": "laitiers"
+    },
+    {
+     "n": "Sucre",
+     "q": 200,
+     "u": "g",
+     "k": "farines"
+    }
+   ],
+   "st": [
+    "Montez les blancs en neige ferme en ajoutant le sucre peu à peu.",
+    "Déposez des petits tas sur une plaque.",
+    "Cuisez 1 h 15 à 100 °C et laissez refroidir dans le four."
+   ]
+  },
+  {
+   "id": "compote-pomme-poire",
+   "t": "Compote pomme-poire",
+   "c": "dessert",
+   "s": 4,
+   "m": 25,
+   "i": [
+    {
+     "n": "Pommes",
+     "q": 6,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Poires",
+     "q": 4,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Sucre",
+     "q": 20,
+     "u": "g",
+     "k": "farines"
+    },
+    {
+     "n": "Cannelle",
+     "q": 1,
+     "u": "c. à café",
+     "k": "sauces"
+    }
+   ],
+   "st": [
+    "Épluchez et coupez les fruits en morceaux.",
+    "Cuisez-les 20 minutes à feu doux avec un fond d'eau, sucre et cannelle.",
+    "Écrasez à la fourchette."
+   ]
+  },
+  {
+   "id": "creme-dessert-vanille",
+   "t": "Crème dessert vanille",
+   "c": "dessert",
+   "s": 6,
+   "m": 25,
+   "i": [
+    {
+     "n": "Lait",
+     "q": 50,
+     "u": "cl",
+     "k": "laitiers"
+    },
+    {
+     "n": "Œufs",
+     "q": 3,
+     "k": "laitiers"
+    },
+    {
+     "n": "Sucre",
+     "q": 70,
+     "u": "g",
+     "k": "farines"
+    },
+    {
+     "n": "Vanille en gousse",
+     "q": 1,
+     "k": "farines"
+    },
+    {
+     "n": "Maïzena",
+     "q": 2,
+     "u": "c. à soupe",
+     "k": "farines",
+     "v": 1
+    }
+   ],
+   "st": [
+    "Chauffez le lait avec la vanille. Fouettez œufs, sucre et maïzena.",
+    "Versez le lait chaud, remettez sur le feu en remuant jusqu'à épaississement.",
+    "Répartissez dans des pots, réfrigérez."
+   ]
+  },
+  {
+   "id": "crepes-sans-gluten",
+   "t": "Crêpes sans gluten",
+   "c": "petitdej",
+   "s": 4,
+   "m": 25,
+   "i": [
+    {
+     "n": "Farine de riz",
+     "q": 150,
+     "u": "g",
+     "k": "farines",
+     "v": 1
+    },
+    {
+     "n": "Maïzena",
+     "q": 50,
+     "u": "g",
+     "k": "farines",
+     "v": 1
+    },
+    {
+     "n": "Œufs",
+     "q": 3,
+     "k": "laitiers"
+    },
+    {
+     "n": "Lait",
+     "q": 50,
+     "u": "cl",
+     "k": "laitiers"
+    },
+    {
+     "n": "Sucre",
+     "q": 2,
+     "u": "c. à soupe",
+     "k": "farines"
+    },
+    {
+     "n": "Beurre",
+     "q": 30,
+     "u": "g",
+     "k": "laitiers"
+    }
+   ],
+   "st": [
+    "Mélangez les farines et le sucre, ajoutez les œufs puis le lait et le beurre fondu.",
+    "Laissez reposer 30 minutes.",
+    "Cuisez les crêpes à la poêle légèrement beurrée."
+   ]
+  },
+  {
+   "id": "porridge-de-flocons-de-millet",
+   "t": "Porridge de flocons de millet",
+   "c": "petitdej",
+   "s": 2,
+   "m": 15,
+   "i": [
+    {
+     "n": "Flocons de millet",
+     "q": 100,
+     "u": "g",
+     "k": "cereales",
+     "v": 1
+    },
+    {
+     "n": "Lait",
+     "q": 40,
+     "u": "cl",
+     "k": "laitiers"
+    },
+    {
+     "n": "Miel",
+     "q": 1,
+     "u": "c. à soupe",
+     "k": "chocolat"
+    },
+    {
+     "n": "Bananes",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Cannelle",
+     "q": 1,
+     "u": "c. à café",
+     "k": "sauces"
+    }
+   ],
+   "st": [
+    "Chauffez le lait avec les flocons 8 minutes en remuant.",
+    "Ajoutez le miel et la cannelle.",
+    "Servez avec la banane en rondelles."
+   ]
+  },
+  {
+   "id": "smoothie-banane-et-fraises",
+   "t": "Smoothie banane et fraises",
+   "c": "petitdej",
+   "s": 2,
+   "m": 5,
+   "i": [
+    {
+     "n": "Bananes",
+     "q": 2,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Fraises",
+     "q": 250,
+     "u": "g",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Lait",
+     "q": 30,
+     "u": "cl",
+     "k": "laitiers"
+    }
+   ],
+   "st": [
+    "Mixez tous les ingrédients jusqu'à obtenir une texture lisse.",
+    "Servez frais."
+   ]
+  },
+  {
+   "id": "ufs-brouilles-et-avocat",
+   "t": "Œufs brouillés et avocat",
+   "c": "petitdej",
+   "s": 2,
+   "m": 10,
+   "i": [
+    {
+     "n": "Œufs",
+     "q": 6,
+     "k": "laitiers"
+    },
+    {
+     "n": "Avocats",
+     "q": 2,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Citron",
+     "q": 1,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Ciboulette",
+     "q": 1,
+     "u": "botte",
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Pain sans gluten",
+     "q": 4,
+     "u": "tranches",
+     "k": "pain",
+     "v": 1
+    },
+    {
+     "n": "Beurre",
+     "q": 20,
+     "u": "g",
+     "k": "laitiers"
+    }
+   ],
+   "st": [
+    "Écrasez les avocats avec le citron.",
+    "Brouillez les œufs doucement dans le beurre.",
+    "Servez sur les tranches de pain sans gluten grillées, avec l'avocat et la ciboulette."
+   ]
+  },
+  {
+   "id": "gateau-banane-et-amandes",
+   "t": "Gâteau banane et amandes",
+   "c": "petitdej",
+   "s": 8,
+   "m": 45,
+   "i": [
+    {
+     "n": "Bananes",
+     "q": 3,
+     "k": "fruits_legumes"
+    },
+    {
+     "n": "Poudre d'amande",
+     "q": 150,
+     "u": "g",
+     "k": "farines"
+    },
+    {
+     "n": "Œufs",
+     "q": 3,
+     "k": "laitiers"
+    },
+    {
+     "n": "Miel",
+     "q": 3,
+     "u": "c. à soupe",
+     "k": "chocolat"
+    },
+    {
+     "n": "Levure chimique sans gluten",
+     "q": 1,
+     "u": "sachet",
+     "k": "farines",
+     "v": 1
+    }
+   ],
+   "st": [
+    "Écrasez les bananes, ajoutez les œufs et le miel.",
+    "Incorporez la poudre d'amande et la levure.",
+    "Cuisez 35 minutes à 180 °C dans un moule beurré."
+   ]
+  }
+ ]
+}

@@ -30,6 +30,20 @@ Sélection : produits de l'export Open Food Facts vendus en France (`countries_t
 codes-barres commençant par 3, 4, 5 ou 8, avec un nom et un texte d'ingrédients. Le script est dans
 `tools/extract.py` (export du 10/10/2026 : 293 059 produits).
 
+## Recettes sans gluten
+
+`recipes.json` : recettes originales GlutHer, libres de droits (CC0 1.0).
+
+- `version` : numéro de version (l'appli adopte une version plus récente) ;
+- `recipes[]` : `id`, `t` titre, `c` plat (`entree`, `plat`, `dessert`, `petitdej`), `s` nombre de personnes,
+  `m` minutes, `i` ingrédients, `st` étapes ;
+- ingrédient : `n` nom, `q` quantité, `u` unité, `k` rayon (voir la liste de courses), `v` = 1 si l'ingrédient
+  est **à risque** pour un coeliaque (sauce ou bouillon du commerce, produit pouvant contenir du gluten ou être
+  contaminé : farines, chocolat, charcuterie…). Le « mode strict » de l'appli masque les recettes qui en contiennent.
+
+Chaque ingrédient est contrôlé par l'analyseur de gluten de GlutHer (aucun terme de gluten, les ambigus sont signalés).
+Ce contrôle automatique ne remplace pas la lecture de l'étiquette des produits utilisés.
+
 ## Licence et attribution
 
 Les données de produits proviennent d'[Open Food Facts](https://world.openfoodfacts.org) et sont publiées
